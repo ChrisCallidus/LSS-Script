@@ -1,8 +1,12 @@
 // ==UserScript==
 // @name         FMS6
 // @version      1.0.0
-// @description  nach dem Kauf des Fahrzeuges muss es editiert werden dann wird es automatisch auf FMS6 gesetzt.
-// @             Die Leute müssen manuell zugewiesen werden und nach der Ausbildung werden sie mit drücken des Ausbildungskontrollbutton automatisch auf FMS2 gesetzt.
+// @description  Nach dem Kauf von einem Fahrzeug muss man es editieren.
+// @             Wenn die Besatzung eine Ausbildung braucht wird dann der Status automatisch auf FMS6 gesetzt.
+// @             Die Besatzung muss dem Fahrzeug zugewiesen werden.
+// @             Wenn man im Hauptfenster bei der Gebäudeübersicht den Button Ausbildungskontrolle drückt, wird überprüft
+// @             welche Besatzung der auf FMS6 gesetzten Fahrzeugen die Ausbildung haben und im positiven Fall wird das Fahrzeug
+// @             auf FMS2 gesetzt.
 // @author       LaLeLu4153
 // @copyright    by LaLeLu4153
 // @match        *://www.leitstellenspiel.de/*
