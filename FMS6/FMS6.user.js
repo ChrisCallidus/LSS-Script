@@ -41,6 +41,7 @@
         $('#button_fms6').css(cssHide);
         $('#wait').css(cssShow);
         var fms_6 = document.querySelectorAll('.building_list_fms_6');
+        if(!fms_6) return false;
         for(var i=0; i<fms_6.length;i++){
             var vehicleType = fms_6[i].parentNode.querySelector('a');
             var vehicleLink = vehicleType.getAttribute('href');
@@ -50,6 +51,7 @@
             var vehicle = VehicleList[vehicleTypeId];
 
             await fms6fms2(VehicleList,VehicleApi,vehicleLink,2);
+            await new Promise(resolve => setTimeout(resolve, 300+Math.random()*300));
         }
 
         $('#wait').css(cssHide);
@@ -143,7 +145,6 @@ async function fms6fms2(VehicleList,VehicleApi,vehicleLink,fms) {
                                 var lesson1 = lesson.substring(0,personal_td[1].textContent.length);
                                 personnelEducation += 1;
                             }
-                            await new Promise(resolve => setTimeout(resolve, 100+Math.random()*400));
                         }
                     }
                 }
