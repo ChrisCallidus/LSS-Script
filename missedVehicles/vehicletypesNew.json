@@ -1139,7 +1139,7 @@
     },
     {
       "id": 41,
-      "name": "Mehrzweckkraftwagen",
+      "name": "MzGW (FGr N)",
       "short_name": "MzKW",
       "class": [
         "thw_mzkw"
