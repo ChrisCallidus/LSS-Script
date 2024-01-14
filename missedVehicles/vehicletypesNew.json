@@ -1502,8 +1502,8 @@
       "id": 55,
       "name": "Kommandowagen - für den LNA",
       "short_name": "KdoW-LNA",
-      "class": [],
-      "class_alias": [],
+      "class": ["lna"],
+      "class_alias": ["LNA"],
       "cost": 20000,
       "personal": {
         "min": 1,
@@ -1527,8 +1527,8 @@
       "id": 56,
       "name": "Kommandowagen - für den OrgL",
       "short_name": "KdoW-OrgL",
-      "class": [],
-      "class_alias": [],
+      "class": ["orgl"],
+      "class_alias": ["OrgL"],
       "cost": 20000,
       "personal": {
         "min": 1,
@@ -2962,8 +2962,14 @@
       "id": 107,
       "name": "Löschfahrzeug Logistik",
       "short_name": "LF-L",
-      "class": [],
-      "class_alias": [],
+      "class": [
+        "firetrucks",
+        "water_damage_pump"
+      ],
+      "class_alias": [
+        "Löschfahrzeuge",
+        "Feuerlöschpumpe"
+      ],
       "cost": 9000,
       "personal": {
         "min": 1,
