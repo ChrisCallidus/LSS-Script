@@ -16,10 +16,22 @@
     "value":"mek"
   },
   {
-    "name":"FuStW":"police_cars",
-    "name":"Polizeihubschrauber":"police_helicopters",
-    "name":"Löschfahrzeuge (LF)":"firetrucks",
-    "name":"Löschfahrzeug (LF)":"firetrucks",
+    "name":"FuStW",
+    "value":"police_cars"
+  },
+  {
+    "name":"Polizeihubschrauber",
+    "value":"police_helicopters"
+  },
+  {
+    "name":"Löschfahrzeuge (LF)",
+    "value":"firetrucks"
+  },
+  {
+    "name":"Löschfahrzeug (LF)",
+    "value":"firetrucks"
+  },
+  {
     "name":"FwK":"fwk",
     "name":"Rüstwagen oder HLF":"heavy_rescue_vehicles",
     "name":"GW-Atemschutz":"mobile_air_vehicles",
