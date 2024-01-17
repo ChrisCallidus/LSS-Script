@@ -1,4 +1,5 @@
-{
+[
+  {
   "SEK-Fahrzeuge":"sek",
   "SEK-Fahrzeug":"sek",
   "MEK-Fahrzeuge":"mek",
@@ -68,3 +69,4 @@
   "Rettungshundestaffel":"rescue_dog_units",
   "Rettungshundestaffeln":"rescue_dog_units"
 }
+]
