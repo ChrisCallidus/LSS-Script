@@ -1,0 +1,34 @@
+[
+  {
+    "name":"SEK-Fahrzeuge",
+    "value":"sek"
+  },
+  {
+    "name":"SEK-Fahrzeug",
+    "value":"sek"
+  },
+  {
+    "name":"MEK-Fahrzeuge",
+    "value":"mek"
+  },
+  {
+    "name":"MEK-Fahrzeug",
+    "value":"mek"
+  },
+  {
+    "name":"FuStW",
+    "value":"police_cars"
+  },
+  {
+    "name":"Polizeihubschrauber",
+    "value":"police_helicopters"
+  },
+  {
+    "name":"Löschfahrzeuge (LF)",
+    "value":"firetrucks"
+  },
+  {
+    "name":"Löschfahrzeug (LF)",
+    "value":"firetrucks"
+  }
+]
