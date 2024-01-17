@@ -1,0 +1,96 @@
+[
+  {
+    "name":"SEK-Fahrzeuge",
+    "value":"sek"
+  },
+  {
+    "name":"SEK-Fahrzeug",
+    "value":"sek"
+  },
+  {
+    "name":"MEK-Fahrzeuge",
+    "value":"mek"
+  },
+  {
+    "name":"MEK-Fahrzeug",
+    "value":"mek"
+  },
+  {
+    "name":"FuStW",
+    "value":"police_cars"
+  },
+  {
+    "name":"Polizeihubschrauber",
+    "value":"police_helicopters"
+  },
+  {
+    "name":"Löschfahrzeuge (LF)",
+    "value":"firetrucks"
+  },
+  {
+    "name":"Löschfahrzeug (LF)",
+    "value":"firetrucks"
+  },
+  {
+    "name":"FwK":"fwk",
+    "name":"Rüstwagen oder HLF":"heavy_rescue_vehicles",
+    "name":"GW-Atemschutz":"mobile_air_vehicles",
+    "name":"Gerätekraftwagen (GKW)":"thw_gkw",
+    "name":"THW-Einsatzleitung (MTW TZ)":"thw_mtwtz",
+    "name":"Radlader (BRmG R)":"thw_brmg_r",
+    "name":"Anhänger Drucklufterzeugung":"thw_dle",
+    "name":"LKW Kipper (LKW K 9)":"thw_lkw",
+    "name":"GW-Öl":"gwoil",
+    "name":"Schlauchwagen (GW-L2 Wasser, SW 1000, SW 2000 oder Ähnliches)":"water_tankers",
+    "name":"GW-Taucher":"diver_units",
+    "name":"Boote":"boats",
+    "name":"Boot":"boats",
+    "name":"ELW 1":"battalion_chief_vehicles",
+    "name":"Flugfeldlöschfahrzeuge":"arff",
+    "name":"Flugfeldlöschfahrzeug":"arff",
+    "name":"Rettungstreppen":"rettungstreppe",
+    "name":"Rettungstreppe":"rettungstreppe",
+    "name":"GW-Werkfeuerwehr":"gw_werkfeuerwehr",
+    "name":"Turbolöscher":"turboloescher",
+    "name":"ULF mit Löscharm":"ulf",
+    "name":"Teleskopmasten":"teleskopmast",
+    "name":"Teleskopmast":"teleskopmast",
+    "name":"Wasserwerfer":"wasserwerfer",
+    "name":"Dekon-P":"hazmat_dekon",
+    "name":"GruKw":"grukw",
+    "name":"FüKw":"fukw",
+    "name":"leBefKw":"lebefkw",
+    "name":"ELW 2":"mobile_command_vehicles",
+    "name":"GW-Messtechnik":"gwmess",
+    "name":"GW-Gefahrgut":"hazmat_vehicles",
+    "name":"GW-Höhenrettung":"height_rescue_units",
+    "name":"Drehleitern (DLK 23)":"platform_trucks",
+    "name":"Drehleiter (DLK 23)":"platform_trucks",
+    "name":"Rettungshundestaffel/n":"rescue_dog_units",
+    "name":"MzGW (FGr N)":"thw_mzkw",
+    "name":"Feuerwehrmann":"firemen",
+    "name":"Feuerwehrleute":"firemen",
+    "name":"Polizist":"policemen",
+    "name":"Polizisten":"policemen",
+    "name":"DHuFüKw":"k9",
+    "name":"l. Wasser":"water_needed",
+    "name":"Außenlastbehälter (allgemein)":"helicopter_bucket",
+    "name":"GefKw":"gefkw",
+    "name":"RTW oder KTW oder KTW-B":"ambulances",
+    "name":"RTW":"ambulances",
+    "name":"NEF":"nef",
+    "name":"RTH":"helicopter",
+    "name":"LNA":"lna",
+    "name":"OrgL":"orgl",
+    "name":"Zivilstreifenwagen":"civil_patrolcar",
+    "name":"Schmutzwasserpumpe":"pump",
+    "name":"Schmutzwasserpumpen":"pump",
+    "name":"Feuerlöschpumpe":"water_damage_pump",
+    "name":"Feuerlöschpumpen":"water_damage_pump",
+    "name":"l/min Pumpenleistung":"min_pump_speed",
+    "name":"Funkstreifenwagen (Dienstgruppenleitung)":"police_service_group_leader",
+    "name":"Polizeimotorräder":"police_motorcycle",
+    "name":"Rettungshundestaffel":"rescue_dog_units",
+    "name":"Rettungshundestaffeln":"rescue_dog_units"
+}
+]
