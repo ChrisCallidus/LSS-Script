@@ -1,6 +1,7 @@
 [
   {
-  "SEK-Fahrzeuge":"sek",
+  "name":"SEK-Fahrzeuge"
+    "value":"sek",
   "SEK-Fahrzeug":"sek",
   "MEK-Fahrzeuge":"mek",
   "MEK-Fahrzeug":"mek",
