@@ -1162,7 +1162,7 @@
     },
     {
       "id": 42,
-      "name": "Lastkraftwagen-Kipper 9 t",
+      "name": "LKW Kipper (LKW K 9)",
       "short_name": "LKW K9",
       "class": [
         "thw_lkw"
