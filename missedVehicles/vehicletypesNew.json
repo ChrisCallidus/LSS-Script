@@ -1112,13 +1112,13 @@
     },
     {
       "id": 40,
-      "name": "MTW-TZ",
-      "short_name": "MTW-TZ",
+      "name": "THW-Einsatzleitung (MTW TZ)",
+      "short_name": "MTW TZ",
       "class": [
         "thw_mtwtz"
       ],
       "class_alias": [
-        "MTW-TZ"
+        "MTW TZ"
       ],
       "cost": 2500,
       "personal": {
@@ -1140,12 +1140,12 @@
     {
       "id": 41,
       "name": "MzGW (FGr N)",
-      "short_name": "MzKW",
+      "short_name": "MzGW",
       "class": [
-        "thw_mzkw"
+        "thw_mzgw"
       ],
       "class_alias": [
-        "MzKW"
+        "MzGW (FGr N)"
       ],
       "cost": 15000,
       "personal": {
