@@ -1087,7 +1087,7 @@
     },
     {
       "id": 39,
-      "name": "Gerätekraftwagen",
+      "name": "Gerätekraftwagen (GKW)",
       "short_name": "GKW",
       "class": [
         "thw_gkw",
