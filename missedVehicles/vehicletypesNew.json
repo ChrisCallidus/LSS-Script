@@ -3074,7 +3074,7 @@
     {
       "id": 114,
       "name": "Gerätewagen Lüfter",
-      "short_name": "GW-Lu",
+      "short_name": "GW-Lüfter",
       "class": [
           "ventilation"
       ],
@@ -3098,7 +3098,7 @@
     {
       "id": 115,
       "name": "Anhänger Lüfter",
-      "short_name": "Anh-Lu",
+      "short_name": "Anh-Lüfter",
       "class": [
           "ventilation"
       ],
@@ -3106,6 +3106,31 @@
           "Lüfter"
       ],
       "cost": 10000,
+      "personal": {
+        "min": 0,
+        "max": 0
+      },
+      "building": [
+        0,
+        18
+      ],
+      "additional": {
+        "trailer": true
+      },
+      "prerequisites": {
+          "fire_stations": 1
+      }
+    },{
+      "id": 116,
+      "name": "Abrollbehälter Lüfter",
+      "short_name": "AB-Lüfter",
+      "class": [
+          "ventilation"
+      ],
+      "class_alias": [
+          "Lüfter"
+      ],
+      "cost": 7000,
       "personal": {
         "min": 0,
         "max": 0
