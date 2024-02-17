@@ -1,0 +1,31 @@
+[
+    {
+      "id": 0,
+      "name": "LF 20",
+      "short_name": "LF 20",
+      "class": [
+        "firetrucks",
+        "water_damage_pump"
+      ],
+      "class_alias": [
+        "Löschfahrzeuge",
+        "Feuerlöschpumpe"
+      ],
+      "cost": 5000,
+      "personal": {
+        "min": 1,
+        "max": 9
+      },
+      "building": [
+        0,
+        18
+      ],
+      "additional": {
+        "water": 2000,
+        "pump_engine": 2000
+      },
+      "prerequisites": {
+        "fire_stations": 1
+      }
+    }
+]
