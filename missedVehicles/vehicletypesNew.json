@@ -2992,8 +2992,12 @@
       "id": 109,
       "name": "MzGW Schwere Bergung",
       "short_name": "MzGW SB",
-      "class": [],
-      "class_alias": [],
+      "class": [
+          "heavy_rescue"
+      ],
+      "class_alias": [
+          "MzGW SB"
+      ],
       "cost": 7000,
       "personal": {
         "min": 1,
