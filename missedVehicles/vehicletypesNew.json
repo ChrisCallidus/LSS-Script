@@ -3120,7 +3120,8 @@
       "prerequisites": {
           "fire_stations": 1
       }
-    },{
+    },
+    {
       "id": 116,
       "name": "Abrollbehälter Lüfter",
       "short_name": "AB-Lüfter",
@@ -3140,6 +3141,33 @@
         18
       ],
       "additional": {
+        "trailer": true
+      },
+      "prerequisites": {
+          "fire_stations": 1
+      }
+    },
+    {
+      "id": 117,
+      "name": "Abrollbehälter Tank",
+      "short_name": "AB-Tank",
+      "class": [
+          "water_carrier"
+      ],
+      "class_alias": [
+          "Tankfahrzeuge"
+      ],
+      "cost": 4000,
+      "personal": {
+        "min": 0,
+        "max": 0
+      },
+      "building": [
+        0,
+        18
+      ],
+      "additional": {
+        "water":10000,
         "trailer": true
       },
       "prerequisites": {
