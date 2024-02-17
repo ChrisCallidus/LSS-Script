@@ -2993,7 +2993,7 @@
       "name": "MzGW Schwere Bergung",
       "short_name": "MzGW SB",
       "class": [
-          "heavy_rescue"
+          "thw_mzgwsb"
       ],
       "class_alias": [
           "MzGW SB"
