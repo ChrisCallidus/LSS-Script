@@ -2755,35 +2755,6 @@
       }
     },
     {
-      "id": 99,
-      "name": "Zivilstreifenwagen",
-      "short_name": "Zivilstreife",
-      "class": [
-        "civil_patrolcar"
-      ],
-      "class_alias": [
-        "Zivilstreife"
-      ],
-      "cost": 5000,
-      "personal": {
-        "min": 1,
-        "max": 2
-      },
-      "building": [
-        6,
-        19
-      ],
-      "additional": {
-        "qualification": [
-          "Kriminalpolizei"
-        ],
-        "prisoners_transport": 1
-      },
-      "prerequisites": {
-        "police_stations": 1
-      }
-    },
-    {
       "id": 100,
       "name": "Mannschaftslastwagen Typ IV mit Ladebordwand",
       "short_name": "MLW 4",
