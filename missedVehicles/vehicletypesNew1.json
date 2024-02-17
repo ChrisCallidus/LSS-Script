@@ -1,5 +1,5 @@
-[
-    {
+{
+    "0":{
       "id": 0,
       "name": "LF 20",
       "short_name": "LF 20",
@@ -28,7 +28,7 @@
         "fire_stations": 1
       }
     },
-    {
+    "1":{
       "id": 1,
       "name": "LF 10",
       "short_name": "LF 10",
@@ -57,7 +57,7 @@
         "fire_stations": 1
       }
     },
-    {
+    "2":{
       "id": 2,
       "name": "Drehleiter",
       "short_name": "DLK 23",
@@ -81,7 +81,7 @@
         "fire_stations": 3
       }
     },
-    {
+    "3":{
       "id": 3,
       "name": "Einsatzleitwagen 1",
       "short_name": "ELW 1",
@@ -105,4 +105,4 @@
         "fire_stations": 6
       }
     }
-]
+}
