@@ -3036,7 +3036,6 @@
         18
       ],
       "additional": {
-        "capacity": 30,
         "trailer": true
       },
       "prerequisites": {
@@ -3045,12 +3044,68 @@
       }
     },
     {
-      "id": 111,
-      "name": "MzGW Schwere Bergung",
-      "short_name": "MzGW SB",
-      "class": [],
-      "class_alias": [],
-      "cost": 7000,
+      "id": 112,
+      "name": "Netzersatzanlage 200 kVA (NEA200)",
+      "short_name": "NEA200",
+      "class": [
+          "NEA200"
+      ],
+      "class_alias": [
+          "NEA200"
+      ],
+      "cost": 50000,
+      "personal": {
+        "min": 0,
+        "max": 0
+      },
+      "building": [
+        0,
+        9,
+        18
+      ],
+      "additional": {
+        "trailer": true
+      },
+      "prerequisites": {
+          "thw": 1,
+          "fire_stations": 1
+      }
+    },
+    {
+      "id": 114,
+      "name": "Gerätewagen Lüfter",
+      "short_name": "GW-Lu",
+      "class": [
+          "ventilation"
+      ],
+      "class_alias": [
+          "Lüfter"
+      ],
+      "cost": 25000,
+      "personal": {
+        "min": 1,
+        "max": 2
+      },
+      "building": [
+        0,
+        18
+      ],
+      "additional": {},
+      "prerequisites": {
+          "fire_stations": 1
+      }
+    },
+    {
+      "id": 115,
+      "name": "Anhänger Lüfter",
+      "short_name": "Anh-Lu",
+      "class": [
+          "ventilation"
+      ],
+      "class_alias": [
+          "Lüfter"
+      ],
+      "cost": 10000,
       "personal": {
         "min": 0,
         "max": 0
@@ -3060,11 +3115,10 @@
         18
       ],
       "additional": {
-        "capacity": 30,
         "trailer": true
       },
       "prerequisites": {
-        "fire_stations": 1
+          "fire_stations": 1
       }
     },
     {
