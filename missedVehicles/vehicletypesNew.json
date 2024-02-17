@@ -2998,7 +2998,7 @@
       "class_alias": [
           "MzGW SB"
       ],
-      "cost": 7000,
+      "cost": 15000,
       "personal": {
         "min": 1,
         "max": 9
@@ -3019,15 +3019,20 @@
       "id": 110,
       "name": "Netzersatzanlage 50 kVA (NEA50)",
       "short_name": "NEA50",
-      "class": [],
-      "class_alias": [],
-      "cost": 7000,
+      "class": [
+          "NEA50"
+      ],
+      "class_alias": [
+          "NEA50"
+      ],
+      "cost": 10000,
       "personal": {
         "min": 0,
         "max": 0
       },
       "building": [
         0,
+        9,
         18
       ],
       "additional": {
@@ -3035,7 +3040,8 @@
         "trailer": true
       },
       "prerequisites": {
-        "fire_stations": 1
+        "thw": 1,
+        "fire_stations": 1  
       }
     },
     {
