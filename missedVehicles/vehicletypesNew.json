@@ -2996,6 +2996,52 @@
       "class_alias": [],
       "cost": 7000,
       "personal": {
+        "min": 1,
+        "max": 9
+      },
+      "building": [
+        9
+      ],
+      "additional": {
+        "qualification": [
+          "Fachgruppe Schwere Bergung"
+        ]
+      },
+      "prerequisites": {
+        "thw": 1
+      }
+    },
+    {
+      "id": 110,
+      "name": "Netzersatzanlage 50 kVA (NEA50)",
+      "short_name": "NEA50",
+      "class": [],
+      "class_alias": [],
+      "cost": 7000,
+      "personal": {
+        "min": 0,
+        "max": 0
+      },
+      "building": [
+        0,
+        18
+      ],
+      "additional": {
+        "capacity": 30,
+        "trailer": true
+      },
+      "prerequisites": {
+        "fire_stations": 1
+      }
+    },
+    {
+      "id": 111,
+      "name": "MzGW Schwere Bergung",
+      "short_name": "MzGW SB",
+      "class": [],
+      "class_alias": [],
+      "cost": 7000,
+      "personal": {
         "min": 0,
         "max": 0
       },
