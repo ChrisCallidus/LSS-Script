@@ -3343,5 +3343,52 @@
       "prerequisites": {
         "thw": 1
       }
+    },
+    {
+      "id": 125,
+      "name": "Mannschaftstransportwagen Trupp Unbemannte Luftfahrtsysteme",
+      "short_name": "MTW-Tr UL",
+      "class": [],
+      "class_alias": [],
+      "cost": 10000,
+      "personal": {
+        "min": 4,
+        "max": 4
+      },
+      "building": [
+        9
+      ],
+      "additional": {
+          "qualification": [
+          "Trupp Unbemannte Luftfahrtsysteme"
+        ]
+      },
+      "prerequisites": {
+        "thw": 1
+      }
+    },
+    {
+      "id": 126,
+      "name": "Mannschaftstransportfahrzeug Drohne",
+      "short_name": "MTF Drohne",
+      "class": [],
+      "class_alias": [],
+      "cost": 10000,
+      "personal": {
+        "min": 4,
+        "max": 5
+      },
+      "building": [
+        0,
+        18
+      ],
+      "additional": {
+          "qualification": [
+          "Drohnen-Schulung"
+        ]
+      },
+      "prerequisites": {
+        "thw": 1
+      }
     }
 ]
