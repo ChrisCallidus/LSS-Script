@@ -3175,6 +3175,85 @@
       }
     },
     {
+      "id": 118,
+      "name": "Kleintankwagen",
+      "short_name": "KL-Tank",
+      "class": [
+          "water_carrier"
+      ],
+      "class_alias": [
+          "Tankfahrzeuge"
+      ],
+      "cost": 10000,
+      "personal": {
+        "min": 1,
+        "max": 3
+      },
+      "building": [
+        0,
+        18
+      ],
+      "additional": {
+        "water":10000
+      },
+      "prerequisites": {
+          "fire_stations": 1
+      }
+    },
+    {
+      "id": 119,
+      "name": "Abrollbehälter Löschwasser",
+      "short_name": "AB-Lösch",
+      "class": [
+          "water_carrier"
+      ],
+      "class_alias": [
+          "Tankfahrzeuge"
+      ],
+      "cost": 8000,
+      "personal": {
+        "min": 0,
+        "max": 0
+      },
+      "building": [
+        0,
+        18
+      ],
+      "additional": {
+        "water":8000,
+        "trailer": true
+      },
+      "prerequisites": {
+          "fire_stations": 1
+      }
+    },
+    {
+      "id": 120,
+      "name": "Tankwagen",
+      "short_name": "Tankwagen",
+      "class": [
+          "water_carrier"
+      ],
+      "class_alias": [
+          "Tankfahrzeuge"
+      ],
+      "cost": 15000,
+      "personal": {
+        "min": 1,
+        "max": 3
+      },
+      "building": [
+        0,
+        18
+      ],
+      "additional": {
+        "water":20000
+      },
+      "prerequisites": {
+          "fire_stations": 1
+      }
+    },
+    {
       "id": 122,
       "name": "Lastkraftwagen Plane/Spriegel mit Ladebordwand, 7 t",
       "short_name": "LKW 7 Lbw (FGr E)",
