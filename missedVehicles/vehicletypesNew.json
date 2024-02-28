@@ -3388,7 +3388,26 @@
         ]
       },
       "prerequisites": {
-        "thw": 1
+        "fire_stations": 1
       }
+    },
+    {
+      "id": 999999,
+      "name": "Feuerwehrleute",
+      "short_name": "ADF",
+      "class": [
+          "firemen"
+      ],
+      "class_alias": [
+          "ADF"
+      ],
+      "cost": 0,
+      "personal": {},
+      "building": [
+        0,
+        18
+      ],
+      "additional": {},
+      "prerequisites": {}
     }
 ]
