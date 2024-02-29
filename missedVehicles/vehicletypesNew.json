@@ -30,59 +30,59 @@
         }
     },
     {
-      "id": 1,
-      "name": "LF 10",
-      "short_name": "LF 10",
-      "class": [
-        "firetrucks",
-        "water_damage_pump"
-      ],
-      "class_alias": [
-        "Löschfahrzeuge",
-        "Feuerlöschpumpe"
-      ],
-      "cost": 5000,
-      "personal": {
-        "min": 1,
-        "max": 9
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 1,
+        "name": "LF 10",
+        "short_name": "LF 10",
+        "class": [
+            "firetrucks",
+            "water_damage_pump"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 9
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "water": 1200,
-        "pump_engine": 1000
-      },
-      "prerequisites": {
-        "fire_stations": 1
-      }
+            "water": 1200,
+            "pump_engine": 1000
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
     },
     {
-      "id": 2,
-      "name": "Drehleiter",
-      "short_name": "DLK 23",
-      "class": [
-        "platform_trucks"
-      ],
-      "class_alias": [
-        "Drehleitern"
-      ],
-      "cost": 10000,
-      "personal": {
-        "min": 1,
-        "max": 3
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 2,
+        "name": "Drehleiter",
+        "short_name": "DLK 23",
+        "class": [
+            "platform_trucks"
+        ],
+        "class_alias": [
+            "Drehleitern"
+        ],
+        "cost": 10000,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {},
-      "prerequisites": {
-        "fire_stations": 3
-      }
+        "prerequisites": {
+            "fire_stations": 3
+        }
     },
     {
       "id": 3,
