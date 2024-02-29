@@ -1,33 +1,33 @@
 [
     {
-      "id": 0,
-      "name": "LF 20",
-      "short_name": "LF 20",
-      "class": [
-        "firetrucks",
-        "water_damage_pump"
-      ],
-      "class_alias": [
-        "Löschfahrzeuge",
-        "Feuerlöschpumpe"
-      ],
-      "cost": 5000,
-      "personal": {
-        "min": 1,
-        "max": 9
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 0,
+        "name": "LF 20",
+        "short_name": "LF 20",
+        "class": [
+            "firetrucks",
+            "water_damage_pump"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 9
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "water": 2000,
-        "pump_engine": 2000
-      },
-      "prerequisites": {
-        "fire_stations": 1
-      }
+            "water": 2000,
+            "pump_engine": 2000
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
     },
     {
       "id": 1,
@@ -1935,7 +1935,8 @@
       "building": [
         9
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "trailer": true
       },
       "prerequisites": {
@@ -1960,7 +1961,8 @@
       "building": [
         9
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "qualification": [
           "Bergungstaucher"
         ]
@@ -1989,7 +1991,8 @@
         12,
         15
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "trailer": true
       },
       "prerequisites": {
@@ -2015,7 +2018,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "trailer": true,
         "qualification": [
           "GW-Wasserrettung"
@@ -2043,7 +2047,8 @@
       "building": [
         11
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "qualification": [
           "Wasserwerfer"
         ]
@@ -2072,7 +2077,8 @@
         2,
         20
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "option_with_na": {
           "critical_patients": true,
           "primary_transport": true,
@@ -2116,7 +2122,8 @@
         2,
         20
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "critical_patients": true,
         "primary_transport": true,
         "qualification": [
@@ -2146,7 +2153,8 @@
       "building": [
         0
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "water": 12000,
         "qualification": [
           "Flugfeldlöschfahrzeug"
@@ -2174,7 +2182,8 @@
       "building": [
         0
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "qualification": [
           "Rettungstreppe"
         ]
@@ -2202,7 +2211,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "trailer": true,
         "qualification": [
           "GW-Gefahrgut"
@@ -2233,7 +2243,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "trailer": true,
         "qualification": [
           "ELW 2"
@@ -2264,7 +2275,8 @@
         11,
         17
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "qualification": [
           "SEK"
         ]
@@ -2294,7 +2306,8 @@
         11,
         17
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "qualification": [
           "SEK"
         ]
@@ -2324,7 +2337,8 @@
         11,
         17
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "qualification": [
           "MEK"
         ]
@@ -2354,7 +2368,8 @@
         11,
         17
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "qualification": [
           "MEK"
         ]
@@ -2381,7 +2396,8 @@
       "building": [
         0
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "qualification": [
           "Werkfeuerwehr"
         ]
@@ -2408,7 +2424,8 @@
       "building": [
         0
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "water": 5000,
         "qualification": [
           "Werkfeuerwehr"
@@ -2438,7 +2455,8 @@
       "building": [
         0
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "qualification": [
           "Werkfeuerwehr"
         ]
@@ -2465,7 +2483,8 @@
       "building": [
         0
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "qualification": [
           "Werkfeuerwehr"
         ]
@@ -2495,7 +2514,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "water": 4000,
         "pump_engine": 2000
       },
@@ -2524,7 +2544,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "water": 500,
         "pump_engine": 1000
       },
@@ -2553,7 +2574,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "water": 1000,
         "pump_engine": 1000
       },
@@ -2584,7 +2606,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "water": 1000,
         "pump_engine": 1000
       },
@@ -2612,7 +2635,8 @@
         12,
         21
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "qualification": [
           "Rettungshundeführer (SEG)"
         ]
@@ -2639,7 +2663,8 @@
       "building": [
         9
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "trailer": true,
         "qualification": [
           "Rettungshundeführer (THW)"
@@ -2663,7 +2688,8 @@
       "building": [
         9
       ],
-      "schooling":{},"additional": {},
+      "schooling":{},
+        "additional": {},
       "prerequisites": {
         "rescue_dog_units": 1
       }
@@ -2688,7 +2714,8 @@
         11,
         17
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "qualification": [
           "Hundeführer"
         ]
@@ -2716,7 +2743,8 @@
         6,
         19
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "qualification": [
           "Motorradstaffel"
         ]
@@ -2743,7 +2771,8 @@
       "building": [
         13
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "qualification": [
           "Brandbekämpfung"
         ],
@@ -2776,7 +2805,8 @@
         2,
         20
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "critical_patients": true,
         "primary_transport": true,
         "secondary_transport": true,
@@ -2812,7 +2842,8 @@
         6,
         19
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "qualification": [
           "Kriminalpolizei"
         ],
@@ -2836,7 +2867,8 @@
       "building": [
         9
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "qualification": [
           "Fachgruppe Wasserschaden/Pumpen"
         ]
@@ -2867,7 +2899,8 @@
       "building": [
         9
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "trailer": true,
         "water_bonus": 25,
         "pump_engine": 15000
@@ -2898,7 +2931,8 @@
       "building": [
         9
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "trailer": true,
         "water_bonus": 25,
         "pump_engine": 12400
@@ -2927,7 +2961,8 @@
       "building": [
         6
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "prisoners_transport": 1,
         "qualification": [
           "Dienstgruppenleitung"
@@ -2952,7 +2987,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "capacity": 20
       },
       "prerequisites": {
@@ -2974,7 +3010,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "capacity": 30
       },
       "prerequisites": {
@@ -2996,7 +3033,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "capacity": 10
       },
       "prerequisites": {
@@ -3024,7 +3062,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "capacity": 10,
         "water": 2000,
         "pump_engine": 2000
@@ -3048,7 +3087,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "capacity": 30,
         "trailer": true
       },
@@ -3074,7 +3114,8 @@
       "building": [
         9
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "qualification": [
           "Fachgruppe Schwere Bergung"
         ]
@@ -3103,7 +3144,8 @@
         9,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "trailer": true
       },
       "prerequisites": {
@@ -3131,7 +3173,8 @@
         9,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "trailer": true
       },
       "prerequisites": {
@@ -3158,7 +3201,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {},
+      "schooling":{},
+        "additional": {},
       "prerequisites": {
           "fire_stations": 1
       }
@@ -3182,7 +3226,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "trailer": true
       },
       "prerequisites": {
@@ -3208,7 +3253,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "trailer": true
       },
       "prerequisites": {
@@ -3234,7 +3280,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "water":10000,
         "trailer": true
       },
@@ -3261,7 +3308,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "water":10000
       },
       "prerequisites": {
@@ -3287,7 +3335,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "water":8000,
         "trailer": true
       },
@@ -3314,7 +3363,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "water":20000
       },
       "prerequisites": {
@@ -3340,7 +3390,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "water":10000
       },
       "prerequisites": {
@@ -3361,7 +3412,8 @@
       "building": [
         9
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "qualification": [
           "Fachgruppe Wasserschaden/Pumpen"
         ]
@@ -3384,7 +3436,8 @@
       "building": [
         9
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
         "qualification": [
           "Fachgruppe Wasserschaden/Pumpen"
         ]
@@ -3407,7 +3460,8 @@
       "building": [
         9
       ],
-      "schooling":{},"additional": {},
+      "schooling":{},
+        "additional": {},
       "prerequisites": {
         "thw": 1
       }
@@ -3426,7 +3480,8 @@
       "building": [
         9
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
           "qualification": [
           "Trupp Unbemannte Luftfahrtsysteme"
         ]
@@ -3450,7 +3505,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {
+      "schooling":{},
+        "additional": {
           "qualification": [
           "Drohnen-Schulung"
         ]
@@ -3475,7 +3531,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {},
+      "schooling":{},
+        "additional": {},
       "prerequisites": {}
     },
     {
@@ -3494,7 +3551,8 @@
         0,
         18
       ],
-      "schooling":{},"additional": {},
+      "schooling":{},
+        "additional": {},
       "prerequisites": {}
     }
 ]
