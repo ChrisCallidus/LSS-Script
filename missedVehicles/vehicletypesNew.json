@@ -3392,6 +3392,25 @@
       }
     },
     {
+      "id": 999998,
+      "name": "Einsatzleiter 2",
+      "short_name": "ELW 2 Leiter",
+      "class": [
+          "mobile_command_men"
+      ],
+      "class_alias": [
+          "Einsatzleiter 2"
+      ],
+      "cost": 0,
+      "personal": {},
+      "building": [
+        0,
+        18
+      ],
+      "additional": {},
+      "prerequisites": {}
+    },
+    {
       "id": 999999,
       "name": "Feuerwehrleute",
       "short_name": "ADF",
