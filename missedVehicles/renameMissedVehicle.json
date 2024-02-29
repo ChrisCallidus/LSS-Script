@@ -21,6 +21,7 @@
 "Boote":"boats",
 "Boot":"boats",
 "ELW_1":"battalion_chief_vehicles",
+"ELW_2":"mobile_command_vehicles",
 "Flugfeldlöschfahrzeuge":"arff",
 "Flugfeldlöschfahrzeug":"arff",
 "Rettungstreppen":"rettungstreppe",
@@ -35,7 +36,6 @@
 "GruKw":"grukw",
 "FüKw":"fukw",
 "leBefKw":"lebefkw",
-"ELW_2":"mobile_command_vehicles",
 "GW-Messtechnik":"gwmess",
 "GW-Gefahrgut":"hazmat_vehicles",
 "GW-Höhenrettung":"height_rescue_units",
@@ -44,10 +44,6 @@
 "Rettungshundestaffel/n":"rescue_dog_units",
 "MzGW_(FGr_N)":"thw_mzgw",
 "MzGW_SB":"thw_mzgwsb",
-"Feuerwehrmann":"firemen",
-"Feuerwehrleute":"firemen",
-"Polizist":"policemen",
-"Polizisten":"policemen",
 "DHuFüKw":"k9",
 "l._Wasser":"water_needed",
 "Außenlastbehälter_(allgemein)":"helicopter_bucket",
@@ -70,5 +66,10 @@
 "Rettungshundestaffel":"rescue_dog_units",
 "Rettungshundestaffeln":"rescue_dog_units",
 "NEA50":"NEA50",
-"Lüfter":"ventilation"
+"Lüfter":"ventilation",
+"Feuerwehrmann":"firemen",
+"Feuerwehrleute":"firemen",
+"Polizist":"policemen",
+"Polizisten":"policemen",
+"Einsatzleiter_2":"mobile_command_men"
 }
