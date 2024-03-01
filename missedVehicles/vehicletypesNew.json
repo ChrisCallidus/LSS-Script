@@ -1813,7 +1813,7 @@
             12,
             15
         ],
-        "schooling": {},
+        "schooling": "gw_taucher",
         "additional": {
             "qualification": [
                 "GW-Taucher"
@@ -2085,7 +2085,7 @@
             2,
             20
         ],
-        "schooling": {},
+        "schooling": "notarzt",
         "additional": {
             "option_with_na": {
                 "critical_patients": true,
@@ -2130,7 +2130,7 @@
             2,
             20
         ],
-        "schooling": {},
+        "schooling": "notarzt",
         "additional": {
             "critical_patients": true,
             "primary_transport": true,
@@ -2813,7 +2813,7 @@
             2,
             20
         ],
-        "schooling": {},
+        "schooling": "notarzt",
         "additional": {
             "critical_patients": true,
             "primary_transport": true,
