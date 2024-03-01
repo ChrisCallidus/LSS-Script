@@ -85,250 +85,250 @@
         }
     },
     {
-      "id": 3,
-      "name": "Einsatzleitwagen 1",
-      "short_name": "ELW 1",
-      "class": [
-        "battalion_chief_vehicles"
-      ],
-      "class_alias": [
-        "ELW 1"
-      ],
-      "cost": 10000,
-      "personal": {
-        "min": 1,
-        "max": 3
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 3,
+        "name": "Einsatzleitwagen 1",
+        "short_name": "ELW 1",
+        "class": [
+            "battalion_chief_vehicles"
+        ],
+        "class_alias": [
+            "ELW 1"
+        ],
+        "cost": 10000,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {},
-      "prerequisites": {
-        "fire_stations": 6
-      }
+        "prerequisites": {
+            "fire_stations": 6
+        }
     },
     {
-      "id": 4,
-      "name": "Rüstwagen",
-      "short_name": "RW",
-      "class": [
-        "heavy_rescue_vehicles"
-      ],
-      "class_alias": [
-        "Rüstwagen"
-      ],
-      "cost": 12180,
-      "personal": {
-        "min": 1,
-        "max": 3
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 4,
+        "name": "Rüstwagen",
+        "short_name": "RW",
+        "class": [
+            "heavy_rescue_vehicles"
+        ],
+        "class_alias": [
+            "Rüstwagen"
+        ],
+        "cost": 12180,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {},
-      "prerequisites": {
-        "fire_stations": 4
-      }
+        "prerequisites": {
+            "fire_stations": 4
+        }
     },
     {
-      "id": 5,
-      "name": "GW-Atemschutz",
-      "short_name": "GW-A",
-      "class": [
-        "mobile_air_vehicles"
-      ],
-      "class_alias": [
-        "Atemschutz"
-      ],
-      "cost": 11680,
-      "personal": {
-        "min": 1,
-        "max": 3
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 5,
+        "name": "GW-Atemschutz",
+        "short_name": "GW-A",
+        "class": [
+            "mobile_air_vehicles"
+        ],
+        "class_alias": [
+            "Atemschutz"
+        ],
+        "cost": 11680,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {},
-      "prerequisites": {
-        "fire_stations": 5
-      }
+        "prerequisites": {
+            "fire_stations": 5
+        }
     },
     {
-      "id": 6,
-      "name": "LF 8/6",
-      "short_name": "LF 8/6",
-      "class": [
-        "firetrucks",
-        "water_damage_pump"
-      ],
-      "class_alias": [
-        "Löschfahrzeuge",
-        "Feuerlöschpumpe"
-      ],
-      "cost": 5000,
-      "personal": {
-        "min": 1,
-        "max": 9
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 6,
+        "name": "LF 8/6",
+        "short_name": "LF 8/6",
+        "class": [
+            "firetrucks",
+            "water_damage_pump"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 9
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "water": 600,
-        "pump_engine": 800
-      },
-      "prerequisites": {
-        "fire_stations": 1
-      }
+            "water": 600,
+            "pump_engine": 800
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
     },
     {
-      "id": 7,
-      "name": "LF 20/16",
-      "short_name": "LF 20/16",
-      "class": [
-        "firetrucks",
-        "water_damage_pump"
-      ],
-      "class_alias": [
-        "Löschfahrzeuge",
-        "Feuerlöschpumpe"
-      ],
-      "cost": 5000,
-      "personal": {
-        "min": 1,
-        "max": 9
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 7,
+        "name": "LF 20/16",
+        "short_name": "LF 20/16",
+        "class": [
+            "firetrucks",
+            "water_damage_pump"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 9
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "water": 1600,
-        "pump_engine": 2000
-      },
-      "prerequisites": {
-        "fire_stations": 1
-      }
+            "water": 1600,
+            "pump_engine": 2000
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
     },
     {
-      "id": 8,
-      "name": "LF 10/6",
-      "short_name": "LF 10/6",
-      "class": [
-        "firetrucks",
-        "water_damage_pump"
-      ],
-      "class_alias": [
-        "Löschfahrzeuge",
-        "Feuerlöschpumpe"
-      ],
-      "cost": 5000,
-      "personal": {
-        "min": 1,
-        "max": 9
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 8,
+        "name": "LF 10/6",
+        "short_name": "LF 10/6",
+        "class": [
+            "firetrucks",
+            "water_damage_pump"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 9
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "water": 600,
-        "pump_engine": 1000
-      },
-      "prerequisites": {
-        "fire_stations": 1
-      }
+            "water": 600,
+            "pump_engine": 1000
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
     },
     {
-      "id": 9,
-      "name": "LF 16-TS",
-      "short_name": "LF 16-TS",
-      "class": [
-        "firetrucks",
-        "water_damage_pump"
-      ],
-      "class_alias": [
-        "Löschfahrzeuge",
-        "Feuerlöschpumpe"
-      ],
-      "cost": 5000,
-      "personal": {
-        "min": 1,
-        "max": 9
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 9,
+        "name": "LF 16-TS",
+        "short_name": "LF 16-TS",
+        "class": [
+            "firetrucks",
+            "water_damage_pump"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 9
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "pump_engine": 1600
-      },
-      "prerequisites": {
-        "fire_stations": 1
-      }
+            "pump_engine": 1600
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
     },
     {
-      "id": 10,
-      "name": "GW-Öl",
-      "short_name": "GW-Öl",
-      "class": [
-        "gwoil"
-      ],
-      "class_alias": [
-        "Öl"
-      ],
-      "cost": 12000,
-      "personal": {
-        "min": 1,
-        "max": 3
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 10,
+        "name": "GW-Öl",
+        "short_name": "GW-Öl",
+        "class": [
+            "gwoil"
+        ],
+        "class_alias": [
+            "Öl"
+        ],
+        "cost": 12000,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {},
-      "prerequisites": {
-        "fire_stations": 6
-      }
+        "prerequisites": {
+            "fire_stations": 6
+        }
     },
     {
-      "id": 11,
-      "name": "GW-L2-Wasser",
-      "short_name": "GW-L2-W",
-      "class": [
-        "water_tankers"
-      ],
-      "class_alias": [
-        "Schlauchwagen"
-      ],
-      "cost": 17300,
-      "personal": {
-        "min": 1,
-        "max": 3
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 11,
+        "name": "GW-L2-Wasser",
+        "short_name": "GW-L2-W",
+        "class": [
+            "water_tankers"
+        ],
+        "class_alias": [
+            "Schlauchwagen"
+        ],
+        "cost": 17300,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "water_bonus": 25
-      },
-      "prerequisites": {
-        "fire_stations": 7
-      }
+            "water_bonus": 25
+        },
+        "prerequisites": {
+            "fire_stations": 7
+        }
     },
     {
         "id": 12,
@@ -360,412 +360,412 @@
         }
     },
     {
-      "id": 13,
-      "name": "SW 1000",
-      "short_name": "SW 1000",
-      "class": [
-        "water_tankers"
-      ],
-      "class_alias": [
-        "Schlauchwagen"
-      ],
-      "cost": 17300,
-      "personal": {
-        "min": 1,
-        "max": 3
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 13,
+        "name": "SW 1000",
+        "short_name": "SW 1000",
+        "class": [
+            "water_tankers"
+        ],
+        "class_alias": [
+            "Schlauchwagen"
+        ],
+        "cost": 17300,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "water_bonus": 25
-      },
-      "prerequisites": {
-        "fire_stations": 7
-      }
+            "water_bonus": 25
+        },
+        "prerequisites": {
+            "fire_stations": 7
+        }
     },
     {
-      "id": 14,
-      "name": "SW 2000",
-      "short_name": "SW 2000",
-      "class": [
-        "water_tankers"
-      ],
-      "class_alias": [
-        "Schlauchwagen"
-      ],
-      "cost": 17300,
-      "personal": {
-        "min": 1,
-        "max": 6
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 14,
+        "name": "SW 2000",
+        "short_name": "SW 2000",
+        "class": [
+            "water_tankers"
+        ],
+        "class_alias": [
+            "Schlauchwagen"
+        ],
+        "cost": 17300,
+        "personal": {
+            "min": 1,
+            "max": 6
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "water_bonus": 25
-      },
-      "prerequisites": {
-        "fire_stations": 7
-      }
+            "water_bonus": 25
+        },
+        "prerequisites": {
+            "fire_stations": 7
+        }
     },
     {
-      "id": 15,
-      "name": "SW 2000-Tr",
-      "short_name": "SW 2000-Tr",
-      "class": [
-        "water_tankers"
-      ],
-      "class_alias": [
-        "Schlauchwagen"
-      ],
-      "cost": 17300,
-      "personal": {
-        "min": 1,
-        "max": 3
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 15,
+        "name": "SW 2000-Tr",
+        "short_name": "SW 2000-Tr",
+        "class": [
+            "water_tankers"
+        ],
+        "class_alias": [
+            "Schlauchwagen"
+        ],
+        "cost": 17300,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "water_bonus": 25
-      },
-      "prerequisites": {
-        "fire_stations": 7
-      }
+            "water_bonus": 25
+        },
+        "prerequisites": {
+            "fire_stations": 7
+        }
     },
     {
-      "id": 16,
-      "name": "SW KatS",
-      "short_name": "SW KatS",
-      "class": [
-        "water_tankers"
-      ],
-      "class_alias": [
-        "Schlauchwagen"
-      ],
-      "cost": 17300,
-      "personal": {
-        "min": 1,
-        "max": 3
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 16,
+        "name": "SW KatS",
+        "short_name": "SW KatS",
+        "class": [
+            "water_tankers"
+        ],
+        "class_alias": [
+            "Schlauchwagen"
+        ],
+        "cost": 17300,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "water_bonus": 25
-      },
-      "prerequisites": {
-        "fire_stations": 7
-      }
+            "water_bonus": 25
+        },
+        "prerequisites": {
+            "fire_stations": 7
+        }
     },
     {
-      "id": 17,
-      "name": "TLF 2000",
-      "short_name": "TLF 2000",
-      "class": [
-        "firetrucks",
-        "water_damage_pump"
-      ],
-      "class_alias": [
-        "Löschfahrzeuge",
-        "Feuerlöschpumpe"
-      ],
-      "cost": 5000,
-      "personal": {
-        "min": 1,
-        "max": 3
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 17,
+        "name": "TLF 2000",
+        "short_name": "TLF 2000",
+        "class": [
+            "firetrucks",
+            "water_damage_pump"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "water": 2000,
-        "pump_engine": 1000
-      },
-      "prerequisites": {
-        "fire_stations": 1
-      }
+            "water": 2000,
+            "pump_engine": 1000
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
     },
     {
-      "id": 18,
-      "name": "TLF 3000",
-      "short_name": "TLF 3000",
-      "class": [
-        "firetrucks",
-        "water_damage_pump"
-      ],
-      "class_alias": [
-        "Löschfahrzeuge",
-        "Feuerlöschpumpe"
-      ],
-      "cost": 5000,
-      "personal": {
-        "min": 1,
-        "max": 3
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 18,
+        "name": "TLF 3000",
+        "short_name": "TLF 3000",
+        "class": [
+            "firetrucks",
+            "water_damage_pump"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "water": 3000,
-        "pump_engine": 2000
-      },
-      "prerequisites": {
-        "fire_stations": 1
-      }
+            "water": 3000,
+            "pump_engine": 2000
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
     },
     {
-      "id": 19,
-      "name": "TLF 8/8",
-      "short_name": "TLF 8/8",
-      "class": [
-        "firetrucks",
-        "water_damage_pump"
-      ],
-      "class_alias": [
-        "Löschfahrzeuge",
-        "Feuerlöschpumpe"
-      ],
-      "cost": 5000,
-      "personal": {
-        "min": 1,
-        "max": 3
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 19,
+        "name": "TLF 8/8",
+        "short_name": "TLF 8/8",
+        "class": [
+            "firetrucks",
+            "water_damage_pump"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "water": 800,
-        "pump_engine": 800
-      },
-      "prerequisites": {
-        "fire_stations": 1
-      }
+            "water": 800,
+            "pump_engine": 800
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
     },
     {
-      "id": 20,
-      "name": "TLF 8/18",
-      "short_name": "TLF 8/18",
-      "class": [
-        "firetrucks",
-        "water_damage_pump"
-      ],
-      "class_alias": [
-        "Löschfahrzeuge",
-        "Feuerlöschpumpe"
-      ],
-      "cost": 5000,
-      "personal": {
-        "min": 1,
-        "max": 3
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 20,
+        "name": "TLF 8/18",
+        "short_name": "TLF 8/18",
+        "class": [
+            "firetrucks",
+            "water_damage_pump"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "water": 1800,
-        "pump_engine": 800
-      },
-      "prerequisites": {
-        "fire_stations": 1
-      }
+            "water": 1800,
+            "pump_engine": 800
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
     },
     {
-      "id": 21,
-      "name": "TLF 16/24-Tr",
-      "short_name": "TLF 16/24-Tr",
-      "class": [
-        "firetrucks",
-        "water_damage_pump"
-      ],
-      "class_alias": [
-        "Löschfahrzeuge",
-        "Feuerlöschpumpe"
-      ],
-      "cost": 5000,
-      "personal": {
-        "min": 1,
-        "max": 3
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 21,
+        "name": "TLF 16/24-Tr",
+        "short_name": "TLF 16/24-Tr",
+        "class": [
+            "firetrucks",
+            "water_damage_pump"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "water": 2400,
-        "pump_engine": 1600
-      },
-      "prerequisites": {
-        "fire_stations": 1
-      }
+            "water": 2400,
+            "pump_engine": 1600
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
     },
     {
-      "id": 22,
-      "name": "TLF 16/25",
-      "short_name": "TLF 16/25",
-      "class": [
-        "firetrucks",
-        "water_damage_pump"
-      ],
-      "class_alias": [
-        "Löschfahrzeuge",
-        "Feuerlöschpumpe"
-      ],
-      "cost": 5000,
-      "personal": {
-        "min": 1,
-        "max": 6
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 22,
+        "name": "TLF 16/25",
+        "short_name": "TLF 16/25",
+        "class": [
+            "firetrucks",
+            "water_damage_pump"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 6
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "water": 2400,
-        "pump_engine": 1600
-      },
-      "prerequisites": {
-        "fire_stations": 1
-      }
+            "water": 2400,
+            "pump_engine": 1600
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
     },
     {
-      "id": 23,
-      "name": "TLF 16/45",
-      "short_name": "TLF 16/45",
-      "class": [
-        "firetrucks",
-        "water_damage_pump"
-      ],
-      "class_alias": [
-        "Löschfahrzeuge",
-        "Feuerlöschpumpe"
-      ],
-      "cost": 5000,
-      "personal": {
-        "min": 1,
-        "max": 3
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 23,
+        "name": "TLF 16/45",
+        "short_name": "TLF 16/45",
+        "class": [
+            "firetrucks",
+            "water_damage_pump"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "water": 4500,
-        "pump_engine": 1600
-      },
-      "prerequisites": {
-        "fire_stations": 1
-      }
+            "water": 4500,
+            "pump_engine": 1600
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
     },
     {
-      "id": 24,
-      "name": "TLF 20/40",
-      "short_name": "TLF 20/40",
-      "class": [
-        "firetrucks",
-        "water_damage_pump"
-      ],
-      "class_alias": [
-        "Löschfahrzeuge",
-        "Feuerlöschpumpe"
-      ],
-      "cost": 5000,
-      "personal": {
-        "min": 1,
-        "max": 3
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 24,
+        "name": "TLF 20/40",
+        "short_name": "TLF 20/40",
+        "class": [
+            "firetrucks",
+            "water_damage_pump"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "water": 4000,
-        "pump_engine": 2000
-      },
-      "prerequisites": {
-        "fire_stations": 1
-      }
+            "water": 4000,
+            "pump_engine": 2000
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
     },
     {
-      "id": 25,
-      "name": "TLF 20/40-SL",
-      "short_name": "TLF 20/40-SL",
-      "class": [
-        "firetrucks",
-        "water_damage_pump"
-      ],
-      "class_alias": [
-        "Löschfahrzeuge",
-        "Feuerlöschpumpe"
-      ],
-      "cost": 5000,
-      "personal": {
-        "min": 1,
-        "max": 3
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 25,
+        "name": "TLF 20/40-SL",
+        "short_name": "TLF 20/40-SL",
+        "class": [
+            "firetrucks",
+            "water_damage_pump"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "water": 4000,
-        "pump_engine": 2000
-      },
-      "prerequisites": {
-        "fire_stations": 1
-      }
+            "water": 4000,
+            "pump_engine": 2000
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
     },
     {
-      "id": 26,
-      "name": "TLF 16",
-      "short_name": "TLF 16",
-      "class": [
-        "firetrucks",
-        "water_damage_pump"
-      ],
-      "class_alias": [
-        "Löschfahrzeuge",
-        "Feuerlöschpumpe"
-      ],
-      "cost": 5000,
-      "personal": {
-        "min": 1,
-        "max": 3
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 26,
+        "name": "TLF 16",
+        "short_name": "TLF 16",
+        "class": [
+            "firetrucks",
+            "water_damage_pump"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "water": 1800,
-        "pump_engine": 1600
-      },
-      "prerequisites": {
-        "fire_stations": 1
-      }
+            "water": 1800,
+            "pump_engine": 1600
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
     },
     {
         "id": 27,
@@ -828,133 +828,133 @@
         }
     },
     {
-      "id": 29,
-      "name": "Notarzteinsatzfahrzeug",
-      "short_name": "NEF",
-      "class_alias": [
-        "Notarzt"
-      ],
-      "class": [
-        "nef"
-      ],
-      "cost": 20000,
-      "personal": {
-        "min": 1,
-        "max": 2
-      },
-      "building": [
-        0,
-        2,
-        20
-      ],
-      "schooling":{},
-        "additional": {
-        "critical_patients": true,
-        "qualification": [
-          "Notarzt-Ausbildung"
-        ]
-      },
-      "prerequisites": {
-        "rescue_stations": 3
-      }
-    },
-    {
-      "id": 30,
-      "name": "HLF 20",
-      "short_name": "HLF 20",
-      "class": [
-        "firetrucks",
-        "water_damage_pump",
-        "heavy_rescue_vehicles"
-      ],
-      "class_alias": [
-        "Löschfahrzeuge",
-        "Feuerlöschpumpe",
-        "Rüstwagen"
-      ],
-      "cost": 20000,
-      "personal": {
-        "min": 1,
-        "max": 9
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
-        "additional": {
-        "water": 1600,
-        "pump_engine": 2000,
-        "rank": "Gruppenführer(in)"
-      },
-      "prerequisites": {
-        "fire_stations": 1
-      }
-    },
-    {
-      "id": 31,
-      "name": "Rettungshubschrauber",
-      "short_name": "RTH",
-      "class": [
-        "helicopter",
-        "nef"
-      ],
-      "class_alias": [
-        "RTH",
-        "Notarzt"
-      ],
-      "cost": 300000,
-      "personal": {
-        "min": 1,
-        "max": 1
-      },
-      "building": [
-        5
-      ],
-      "schooling":{},
-        "additional": {
-        "critical_patients": true,
-        "primary_transport": true,
-        "required_on_mission": [
-          28,
-          58
+        "id": 29,
+        "name": "Notarzteinsatzfahrzeug",
+        "short_name": "NEF",
+        "class": [
+            "nef"
         ],
-        "qualification": [
-          "Notarzt-Ausbildung"
+        "class_alias": [
+            "Notarzt"
         ],
-        "rank": "Stv. Zugführer(in)",
-        "special_conditions": true
-      },
-      "prerequisites": {
-        "rescue_stations": 3
-      }
+        "cost": 20000,
+        "personal": {
+            "min": 1,
+            "max": 2
+        },
+        "building": [
+            0,
+            2,
+            20
+        ],
+        "schooling":"notarzt",
+        "additional": {
+            "critical_patients": true,
+            "qualification": [
+                "Notarzt-Ausbildung"
+            ]
+        },
+        "prerequisites": {
+            "rescue_stations": 3
+        }
     },
     {
-      "id": 32,
-      "name": "Funkstreifenwagen",
-      "short_name": "FuStW",
-      "class": [
-        "police_cars"
-      ],
-      "class_alias": [
-        "Polizeistreifen"
-      ],
-      "cost": 5000,
-      "personal": {
-        "min": 1,
-        "max": 2
-      },
-      "building": [
-        6,
-        19
-      ],
-      "schooling":{},
+        "id": 30,
+        "name": "HLF 20",
+        "short_name": "HLF 20",
+        "class": [
+            "firetrucks",
+            "water_damage_pump",
+            "heavy_rescue_vehicles"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe",
+            "Rüstwagen"
+        ],
+        "cost": 20000,
+        "personal": {
+            "min": 1,
+            "max": 9
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "prisoners_transport": 1
-      },
-      "prerequisites": {
-        "police_stations": 1
-      }
+            "water": 1600,
+            "pump_engine": 2000,
+            "rank": "Gruppenführer(in)"
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
+    },
+    {
+        "id": 31,
+        "name": "Rettungshubschrauber",
+        "short_name": "RTH",
+        "class": [
+            "helicopter",
+            "nef"
+        ],
+        "class_alias": [
+            "RTH",
+            "Notarzt"
+        ],
+        "cost": 300000,
+        "personal": {
+            "min": 1,
+            "max": 1
+        },
+        "building": [
+            5
+        ],
+        "schooling":"notarzt",
+        "additional": {
+            "critical_patients": true,
+            "primary_transport": true,
+            "required_on_mission": [
+                28,
+                58
+            ],
+            "qualification": [
+                "Notarzt-Ausbildung"
+            ],
+            "rank": "Stv. Zugführer(in)",
+            "special_conditions": true
+        },
+        "prerequisites": {
+            "rescue_stations": 3
+        }
+    },
+    {
+        "id": 32,
+        "name": "Funkstreifenwagen",
+        "short_name": "FuStW",
+        "class": [
+            "police_cars"
+        ],
+        "class_alias": [
+            "Polizeistreifen"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 2
+        },
+        "building": [
+            6,
+            19
+        ],
+        "schooling":{},
+        "additional": {
+            "prisoners_transport": 1
+        },
+        "prerequisites": {
+            "police_stations": 1
+        }
     },
     {
         "id": 33,
@@ -1017,32 +1017,32 @@
         }
     },
     {
-      "id": 35,
-      "name": "Leichter Befehlskraftwagen",
-      "short_name": "leBefKw",
-      "class": [
-        "lebefkw"
-      ],
-      "class_alias": [
-        "leBefKw"
-      ],
-      "cost": 10000,
-      "personal": {
-        "min": 1,
-        "max": 3
-      },
-      "building": [
-        11
-      ],
-      "schooling":{},
+        "id": 35,
+        "name": "Leichter Befehlskraftwagen",
+        "short_name": "leBefKw",
+        "class": [
+            "lebefkw"
+        ],
+        "class_alias": [
+            "leBefKw"
+        ],
+        "cost": 10000,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            11
+        ],
+        "schooling":{},
         "additional": {
-        "qualification": [
-          "Zugführer (leBefKw)"
-        ]
-      },
-      "prerequisites": {
-        "bereitschaftspolizei": 1
-      }
+            "qualification": [
+                "Zugführer (leBefKw)"
+            ]
+        },
+        "prerequisites": {
+            "bereitschaftspolizei": 1
+        }
     },
     {
       "id": 36,
@@ -1308,29 +1308,29 @@
       }
     },
     {
-      "id": 46,
-      "name": "Wechselladerfahrzeug",
-      "short_name": "WLF",
-      "class": [],
-      "class_alias": [],
-      "cost": 5000,
-      "personal": {
-        "min": 1,
-        "max": 3
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 46,
+        "name": "Wechselladerfahrzeug",
+        "short_name": "WLF",
+        "class": [],
+        "class_alias": [],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":"wechsellader",
         "additional": {
         "qualification": [
-          "Wechsellader"
+            "Wechsellader"
         ]
-      },
-      "prerequisites": {
-        "fire_stations": 1
-      }
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
     },
     {
       "id": 47,
@@ -1495,63 +1495,63 @@
       }
     },
     {
-      "id": 53,
-      "name": "Dekon-P",
-      "short_name": "Dekon-P",
-      "class": [
-        "hazmat_dekon"
-      ],
-      "class_alias": [
-        "Dekon-P"
-      ],
-      "cost": 23100,
-      "personal": {
-        "min": 1,
-        "max": 6
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 53,
+        "name": "Dekon-P",
+        "short_name": "Dekon-P",
+        "class": [
+            "hazmat_dekon"
+        ],
+        "class_alias": [
+            "Dekon-P"
+        ],
+        "cost": 23100,
+        "personal": {
+            "min": 1,
+            "max": 6
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":"dekon_p",
         "additional": {
         "qualification": [
-          "Dekon-P"
+            "Dekon-P"
         ]
-      },
-      "prerequisites": {
-        "fire_stations": 14
-      }
+        },
+        "prerequisites": {
+            "fire_stations": 14
+        }
     },
     {
-      "id": 54,
-      "name": "AB-Dekon-P",
-      "short_name": "AB-Dekon-P",
-      "class": [
-        "hazmat_dekon"
-      ],
-      "class_alias": [
-        "Dekon-P"
-      ],
-      "cost": 6000,
-      "personal": {
-        "min": 0,
-        "max": 0
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 54,
+        "name": "AB-Dekon-P",
+        "short_name": "AB-Dekon-P",
+        "class": [
+            "hazmat_dekon"
+        ],
+        "class_alias": [
+            "Dekon-P"
+        ],
+        "cost": 6000,
+        "personal": {
+            "min": 0,
+            "max": 0
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":"dekon_p",
         "additional": {
-        "trailer": true,
-        "qualification": [
-          "Dekon-P"
-        ]
-      },
-      "prerequisites": {
-        "fire_stations": 14
-      }
+            "trailer": true,
+            "qualification": [
+                "Dekon-P"
+            ]
+        },
+        "prerequisites": {
+            "fire_stations": 14
+        }
     },
     {
       "id": 55,
@@ -1606,64 +1606,64 @@
       }
     },
     {
-      "id": 57,
-      "name": "Feuerwehrkran",
-      "short_name": "FwK",
-      "class": [
-        "fwk"
-      ],
-      "class_alias": [
-        "FwK"
-      ],
-      "cost": 30000,
-      "personal": {
-        "min": 1,
-        "max": 2
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 57,
+        "name": "Feuerwehrkran",
+        "short_name": "FwK",
+        "class": [
+            "fwk"
+        ],
+        "class_alias": [
+            "FwK"
+        ],
+        "cost": 30000,
+        "personal": {
+            "min": 1,
+            "max": 2
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":"fwk",
         "additional": {
-        "qualification": [
-          "Feuerwehrkran"
-        ]
-      },
-      "prerequisites": {
-        "fire_stations": 14
-      }
+            "qualification": [
+                "Feuerwehrkran"
+            ]
+        },
+        "prerequisites": {
+            "fire_stations": 14
+        }
     },
     {
-      "id": 58,
-      "name": "Krankentransportwagen Typ B",
-      "short_name": "KTW Typ B",
-      "class": [
-        "ambulances"
-      ],
-      "class_alias": [
-        "Patiententransport"
-      ],
-      "cost": 5000,
-      "personal": {
-        "min": 1,
-        "max": 2
-      },
-      "building": [
-        12
-      ],
-      "schooling":{},
+        "id": 58,
+        "name": "Krankentransportwagen Typ B",
+        "short_name": "KTW Typ B",
+        "class": [
+            "ambulances"
+        ],
+        "class_alias": [
+            "Patiententransport"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 2
+        },
+        "building": [
+            12
+        ],
+        "schooling":{},
         "additional": {
-        "critical_patients": true,
-        "primary_transport": true,
-        "required_on_mission": [
-          60
-        ]
-      },
-      "prerequisites": {
-        "rescue_stations": 3,
-        "seg": 1
-      }
+            "critical_patients": true,
+            "primary_transport": true,
+            "required_on_mission": [
+                60
+            ]
+        },
+        "prerequisites": {
+            "rescue_stations": 3,
+            "seg": 1
+        }
     },
     {
       "id": 59,
@@ -1816,30 +1816,30 @@
       }
     },
     {
-      "id": 64,
-      "name": "Gerätewagen Wasserrettung",
-      "short_name": "GW-Wasserrettung",
-      "class": [],
-      "class_alias": [],
-      "cost": 10000,
-      "personal": {
-        "min": 1,
-        "max": 6
-      },
-      "building": [
-        0,
-        12,
-        15
-      ],
-      "schooling":{},
+        "id": 64,
+        "name": "Gerätewagen Wasserrettung",
+        "short_name": "GW-Wasserrettung",
+        "class": [],
+        "class_alias": [],
+        "cost": 10000,
+        "personal": {
+            "min": 1,
+            "max": 6
+        },
+        "building": [
+            0,
+            12,
+            15
+        ],
+        "schooling":"gw_wasserrettung",
         "additional": {
-        "qualification": [
-          "GW-Wasserrettung"
-        ]
-      },
-      "prerequisites": {
-        "wasserrettung": 1
-      }
+            "qualification": [
+                "GW-Wasserrettung"
+            ]
+        },
+        "prerequisites": {
+            "wasserrettung": 1
+        }
     },
     {
       "id": 65,
@@ -1866,82 +1866,82 @@
       }
     },
     {
-      "id": 66,
-      "name": "Mehrzweckboot (MzB) auf Transporthänger",
-      "short_name": "Anh MzB",
-      "class": [
-        "boats"
-      ],
-      "class_alias": [
-        "Boote"
-      ],
-      "cost": 6000,
-      "personal": {
-        "min": 0,
-        "max": 0
-      },
-      "building": [
-        9
-      ],
-      "schooling":{},
+        "id": 66,
+        "name": "Mehrzweckboot (MzB) auf Transporthänger",
+        "short_name": "Anh MzB",
+        "class": [
+            "boats"
+        ],
+        "class_alias": [
+            "Boote"
+        ],
+        "cost": 6000,
+        "personal": {
+            "min": 0,
+            "max": 0
+        },
+        "building": [
+            9
+        ],
+        "schooling":{},
         "additional": {
-        "trailer": true
-      },
-      "prerequisites": {
-        "wasserrettung": 1
-      }
+            "trailer": true
+        },
+        "prerequisites": {
+            "wasserrettung": 1
+        }
     },
     {
-      "id": 67,
-      "name": "Schlauchboot 1 t auf Transporthänger",
-      "short_name": "Anh SchlB",
-      "class": [
-        "boats"
-      ],
-      "class_alias": [
-        "Boote"
-      ],
-      "cost": 6000,
-      "personal": {
-        "min": 0,
-        "max": 0
-      },
-      "building": [
-        9
-      ],
-      "schooling":{},
+        "id": 67,
+        "name": "Schlauchboot 1 t auf Transporthänger",
+        "short_name": "Anh SchlB",
+        "class": [
+            "boats"
+        ],
+        "class_alias": [
+            "Boote"
+        ],
+        "cost": 6000,
+        "personal": {
+            "min": 0,
+            "max": 0
+        },
+        "building": [
+            9
+        ],
+        "schooling":{},
         "additional": {
-        "trailer": true
-      },
-      "prerequisites": {
-        "wasserrettung": 1
-      }
+            "trailer": true
+        },
+        "prerequisites": {
+            "wasserrettung": 1
+        }
     },
     {
-      "id": 68,
-      "name": "Mehrzweckarbeitsboot mit Bugklappe auf Transport-Anhänger",
-      "short_name": "Anh MzAB",
-      "class": [
-        "boats"
-      ],
-      "class_alias": [
-        "Boote"
-      ],
-      "cost": 6000,
-      "personal": {
-        "min": 0,
-        "max": 0
-      },
-      "building": [
-        9
-      ],
-      "schooling":{},
+        "id": 68,
+        "name": "Mehrzweckarbeitsboot mit Bugklappe auf Transport-Anhänger",
+        "short_name": "Anh MzAB",
+        "class": [
+            "boats"
+        ],
+        "class_alias": [
+            "Boote"
+        ],
+        "cost": 6000,
+        "personal": {
+            "min": 0,
+            "max": 0
+        },
+        "building": [
+            9
+        ],
+        "schooling":{},
         "additional": {
-        "trailer": true
-      },
-      "prerequisites": {
-        "wasserrettung": 1
-      }
+            "trailer": true
+        },
+        "prerequisites": {
+            "wasserrettung": 1
+        }
     },
     {
       "id": 69,
@@ -1972,62 +1972,62 @@
       }
     },
     {
-      "id": 70,
-      "name": "Mehrzweckboot",
-      "short_name": "MZB",
-      "class": [
-        "boats"
-      ],
-      "class_alias": [
-        "Boote"
-      ],
-      "cost": 6000,
-      "personal": {
-        "min": 0,
-        "max": 0
-      },
-      "building": [
-        0,
-        12,
-        15
-      ],
-      "schooling":{},
+        "id": 70,
+        "name": "Mehrzweckboot",
+        "short_name": "MZB",
+        "class": [
+            "boats"
+        ],
+        "class_alias": [
+            "Boote"
+        ],
+        "cost": 6000,
+        "personal": {
+            "min": 0,
+            "max": 0
+        },
+        "building": [
+            0,
+            12,
+            15
+        ],
+        "schooling":{},
         "additional": {
-        "trailer": true
-      },
-      "prerequisites": {
-        "wasserrettung": 1
-      }
+            "trailer": true
+        },
+        "prerequisites": {
+            "wasserrettung": 1
+        }
     },
     {
-      "id": 71,
-      "name": "Abrollbehälter-Mehrzweckboot",
-      "short_name": "AB-MZB",
-      "class": [
-        "boats"
-      ],
-      "class_alias": [
-        "Boote"
-      ],
-      "cost": 6000,
-      "personal": {
-        "min": 0,
-        "max": 0
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 71,
+        "name": "Abrollbehälter-Mehrzweckboot",
+        "short_name": "AB-MZB",
+        "class": [
+            "boats"
+        ],
+        "class_alias": [
+            "Boote"
+        ],
+        "cost": 6000,
+        "personal": {
+            "min": 0,
+            "max": 0
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":{},
         "additional": {
-        "trailer": true,
-        "qualification": [
-          "GW-Wasserrettung"
-        ]
-      },
-      "prerequisites": {
-        "fire_stations": 1
-      }
+            "trailer": true,
+            "qualification": [
+                "GW-Wasserrettung"
+            ]
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
     },
     {
       "id": 72,
@@ -2193,66 +2193,66 @@
       }
     },
     {
-      "id": 77,
-      "name": "Abrollbehälter-Gefahrgut",
-      "short_name": "AB-Gefahrgut",
-      "class": [
-        "hazmat_vehicles"
-      ],
-      "class_alias": [
-        "Gefahrgut"
-      ],
-      "cost": 6000,
-      "personal": {
-        "min": 0,
-        "max": 0
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 77,
+        "name": "Abrollbehälter-Gefahrgut",
+        "short_name": "AB-Gefahrgut",
+        "class": [
+            "hazmat_vehicles"
+        ],
+        "class_alias": [
+            "Gefahrgut"
+        ],
+        "cost": 6000,
+        "personal": {
+            "min": 0,
+            "max": 0
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":"gw_gefahrgut",
         "additional": {
-        "trailer": true,
-        "qualification": [
-          "GW-Gefahrgut"
-        ]
-      },
-      "prerequisites": {
-        "fire_stations": 11
-      }
+            "trailer": true,
+            "qualification": [
+                "GW-Gefahrgut"
+            ]
+        },
+        "prerequisites": {
+            "fire_stations": 11
+        }
     },
     {
-      "id": 78,
-      "name": "AB-Einsatzleitung",
-      "short_name": "AB-EL",
-      "class": [
-        "mobile_command_vehicles",
-        "battalion_chief_vehicles"
-      ],
-      "class_alias": [
-        "ELW 2",
-        "ELW 1"
-      ],
-      "cost": 6000,
-      "personal": {
-        "min": 0,
-        "max": 0
-      },
-      "building": [
-        0,
-        18
-      ],
-      "schooling":{},
+        "id": 78,
+        "name": "AB-Einsatzleitung",
+        "short_name": "AB-EL",
+        "class": [
+            "mobile_command_vehicles",
+            "battalion_chief_vehicles"
+        ],
+        "class_alias": [
+            "ELW 2",
+            "ELW 1"
+        ],
+        "cost": 6000,
+        "personal": {
+            "min": 0,
+            "max": 0
+        },
+        "building": [
+            0,
+            18
+        ],
+        "schooling":"elw2",
         "additional": {
-        "trailer": true,
-        "qualification": [
-          "ELW 2"
-        ]
-      },
-      "prerequisites": {
-        "fire_stations": 13
-      }
+            "trailer": true,
+            "qualification": [
+                "ELW 2"
+            ]
+        },
+        "prerequisites": {
+            "fire_stations": 13
+        }
     },
     {
       "id": 79,
@@ -3514,6 +3514,26 @@
       "prerequisites": {
         "fire_stations": 1
       }
+    },
+    {
+        "id": 999997,
+        "name": "GW-Wasserrettung",
+        "short_name": "GW-Wasserrettung",
+        "class": [
+            "water_rescue_men"
+        ],
+        "class_alias": [
+            "GW-Wasserrettung"
+        ],
+        "cost": 0,
+        "personal": {},
+        "building": [
+            0,
+            18
+        ],
+        "schooling":"gw_wasserrettung",
+        "additional": {},
+        "prerequisites": {}
     },
     {
         "id": 999998,
