@@ -2189,7 +2189,9 @@
         "possible_building_type_id": [
             0
         ],
-        "schooling": [],
+        "schooling": [
+			"arff"
+		],
         "additional": {
             "water": 12000,
             "qualification": [
@@ -2218,7 +2220,9 @@
         "possible_building_type_id": [
             0
         ],
-        "schooling": [],
+        "schooling": [
+			"rettungstreppe"
+		],
         "additional": {
             "qualification": [
                 "Rettungstreppe"
@@ -2436,7 +2440,9 @@
         "possible_building_type_id": [
             0
         ],
-        "schooling": [],
+        "schooling": [
+			"werkfeuerwehr"
+		],
         "additional": {
             "qualification": [
                 "Werkfeuerwehr"
@@ -2464,7 +2470,9 @@
         "possible_building_type_id": [
             0
         ],
-        "schooling": [],
+        "schooling": [
+			"werkfeuerwehr"
+		],
         "additional": {
             "water": 5000,
             "qualification": [
@@ -2495,7 +2503,9 @@
         "possible_building_type_id": [
             0
         ],
-        "schooling": [],
+        "schooling": [
+			"werkfeuerwehr"
+		],
         "additional": {
             "qualification": [
                 "Werkfeuerwehr"
@@ -2523,7 +2533,9 @@
         "possible_building_type_id": [
             0
         ],
-        "schooling": [],
+        "schooling": [
+			"werkfeuerwehr"
+		],
         "additional": {
             "qualification": [
                 "Werkfeuerwehr"
@@ -3216,7 +3228,9 @@
             9,
             18
         ],
-        "schooling": [],
+        "schooling": [
+			"energy_supply"
+		],
         "additional": {
             "trailer": true
         },
@@ -3548,7 +3562,9 @@
             0,
             18
         ],
-        "schooling": [],
+        "schooling": [
+			"fire_drone"
+		],
         "additional": {
             "qualification": [
                 "Drohnen-Schulung"
