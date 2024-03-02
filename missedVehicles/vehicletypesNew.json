@@ -3575,7 +3575,7 @@
         }
     },
     "999996": {
-        "id": 999997,
+        "id": 999996,
         "name": "GW-Gefahrgut",
         "short_name": "GW-Gefahrgut",
         "class": [
@@ -3591,7 +3591,7 @@
             18
         ],
         "schooling": [
-			"gw_wasserrettung"
+			"gw_gefahrgut"
 		],
         "additional": {},
         "prerequisites": {}
