@@ -1,0 +1,88 @@
+{
+    "999996": {
+        "id": 999996,
+        "name": "GW-Gefahrgut",
+        "short_name": "GW-Gefahrgut",
+        "class": [
+            "hazmat_vehicles_men"
+        ],
+        "class_alias": [
+            "GW-Gefahrgut-Ausbildung"
+        ],
+        "cost": 0,
+        "personal": {},
+        "possible_building_type_id": [
+            0,
+            18
+        ],
+        "schooling": [
+			"gw_gefahrgut"
+		],
+        "additional": {},
+        "prerequisites": {}
+    },
+    "999997": {
+        "id": 999997,
+        "name": "GW-Wasserrettung",
+        "short_name": "GW-Wasserrettung",
+        "class": [
+            "water_rescue_men"
+        ],
+        "class_alias": [
+            "GW-Wasserrettung"
+        ],
+        "cost": 0,
+        "personal": {},
+        "possible_building_type_id": [
+            0,
+            18
+        ],
+        "schooling": [
+			"gw_wasserrettung"
+		],
+        "additional": {},
+        "prerequisites": {}
+    },
+    "999998": {
+        "id": 999998,
+        "name": "Einsatzleiter 2",
+        "short_name": "ELW 2 Leiter",
+        "class": [
+            "mobile_command_men"
+        ],
+        "class_alias": [
+            "Einsatzleiter 2"
+        ],
+        "cost": 0,
+        "personal": {},
+        "possible_building_type_id": [
+            0,
+            18
+        ],
+        "schooling": [
+			"elw2"
+		],
+        "additional": {},
+        "prerequisites": {}
+    },
+    "999999": {
+        "id": 999999,
+        "name": "Feuerwehrleute",
+        "short_name": "ADF",
+        "class": [
+            "firemen"
+        ],
+        "class_alias": [
+            "ADF"
+        ],
+        "cost": 0,
+        "personal": {},
+        "possible_building_type_id": [
+            0,
+            18
+        ],
+        "schooling": [],
+        "additional": {},
+        "prerequisites": {}
+    }
+}
