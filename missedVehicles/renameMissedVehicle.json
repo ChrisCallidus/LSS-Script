@@ -145,5 +145,6 @@
 	"Polizist":"policemen",
 	"Polizisten":"policemen",
 	"Einsatzleiter_2":"mobile_command_men",
-	"GW-Wasserrettung":"water_rescue_men"
+	"GW-Wasserrettung":"water_rescue_men",
+    "GW-Gefahrgut-Ausbildung":"hazmat_vehicles_men"
 }
