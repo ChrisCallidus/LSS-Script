@@ -36,8 +36,8 @@
             18
         ],
         "schooling": [
-			"gw_wasserrettung"
-		],
+		"gw_wasserrettung"
+	],
         "additional": {},
         "prerequisites": {}
     },
@@ -58,11 +58,11 @@
             18
         ],
         "schooling": [
-			"elw2"
-		],
+		"elw2"
+	],
         "additional": {},
         "prerequisites": {}
-    }
+    },
     "3": {
         "id": 3,
         "name": "GW-Gefahrgut",
@@ -80,8 +80,8 @@
             18
         ],
         "schooling": [
-			"gw_gefahrgut"
-		],
+		"gw_gefahrgut"
+	],
         "additional": {},
         "prerequisites": {}
     }
