@@ -27,7 +27,7 @@
             "water_rescue_men"
         ],
         "class_alias": [
-            "GW-Wasserrettung"
+            "GW-Wasserrettung-Ausbildung"
         ],
         "cost": 0,
         "personal": {},
@@ -36,8 +36,8 @@
             18
         ],
         "schooling": [
-		"gw_wasserrettung"
-	],
+			"gw_wasserrettung"
+		],
         "additional": {},
         "prerequisites": {}
     },
