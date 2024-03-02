@@ -3574,6 +3574,28 @@
             "fire_stations": 1
         }
     },
+    "999996": {
+        "id": 999997,
+        "name": "GW-Gefahrgut",
+        "short_name": "GW-Gefahrgut",
+        "class": [
+            "hazmat_vehicles_men"
+        ],
+        "class_alias": [
+            "GW-Gefahrgut-Ausbildung"
+        ],
+        "cost": 0,
+        "personal": {},
+        "possible_building_type_id": [
+            0,
+            18
+        ],
+        "schooling": [
+			"gw_wasserrettung"
+		],
+        "additional": {},
+        "prerequisites": {}
+    },
     "999997": {
         "id": 999997,
         "name": "GW-Wasserrettung",
