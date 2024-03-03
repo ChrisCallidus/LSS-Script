@@ -73,5 +73,5 @@
 	"Polizisten":"policemen",
 	"Einsatzleiter_2":"mobile_command_men",
 	"GW-Wasserrettung":"water_rescue_men",
-	"GW-Gefahrgut-Ausbildung":"hazmat_vehicles_men"
+	"Person_mit_GW-Gefahrgut-Ausbildung":"hazmat_vehicles_men"
 }
