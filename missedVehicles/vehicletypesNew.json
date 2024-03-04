@@ -1667,10 +1667,10 @@
         "name": "Krankentransportwagen Typ B",
         "short_name": "KTW Typ B",
         "class": [
-            "ambulances"
+            "ambulances_b"
         ],
         "class_alias": [
-            "Patiententransport"
+            "KTW Typ B"
         ],
         "cost": 5000,
         "personal": {
