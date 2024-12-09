@@ -84,5 +84,27 @@
 	],
         "additional": {},
         "prerequisites": {}
+    },
+    "4": {
+        "id": 4,
+        "name": "Dekon-P",
+        "short_name": "Dekon-P",
+        "class": [
+            "hazmat_dekon_men"
+        ],
+        "class_alias": [
+            "Dekon-P-Ausbildung"
+        ],
+        "cost": 0,
+        "personal": {},
+        "possible_building_type_id": [
+            0,
+            18
+        ],
+        "schooling": [
+		"dekon_p"
+	],
+        "additional": {},
+        "prerequisites": {}
     }
 }
