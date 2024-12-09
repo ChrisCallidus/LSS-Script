@@ -1271,7 +1271,7 @@
     "44": {
         "id": 44,
         "name": "Anhänger Drucklufterzeugung",
-        "short_name": "Anh. DLE",
+        "short_name": "Anh DLE",
         "class": [
             "thw_dle"
         ],
