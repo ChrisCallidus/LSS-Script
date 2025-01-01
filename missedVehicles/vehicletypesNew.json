@@ -1166,13 +1166,13 @@
     },
     "40": {
         "id": 40,
-        "name": "THW-Einsatzleitung (MTW TZ)",
-        "short_name": "MTW TZ",
+        "name": "THW-Einsatzleitung (MTW-TZ)",
+        "short_name": "MTW-TZ",
         "class": [
             "thw_mtwtz"
         ],
         "class_alias": [
-            "MTW TZ"
+            "MTW-TZ"
         ],
         "cost": 2500,
         "personal": {
@@ -2005,7 +2005,9 @@
         "possible_building_type_id": [
             9
         ],
-        "schooling": [],
+        "schooling": [
+		"gw_taucher"
+	],
         "additional": {
             "qualification": [
                 "Bergungstaucher"
@@ -2740,8 +2742,8 @@
     },
     "93": {
         "id": 93,
-        "name": "Mannschaftstransportwagen Ortsverband",
-        "short_name": "MTW-OV",
+        "name": "Mannschaftstransportwagen der Fachgruppe Ortung",
+        "short_name": "MTW-O",
         "class": [],
         "class_alias": [],
         "cost": 19000,
@@ -2752,7 +2754,9 @@
         "possible_building_type_id": [
             9
         ],
-        "schooling": [],
+        "schooling": [
+		"thw_rescue_dogs"
+	],
         "additional": {},
         "prerequisites": {
             "rescue_dog_units": 1
@@ -2934,7 +2938,9 @@
         "possible_building_type_id": [
             9
         ],
-        "schooling": [],
+        "schooling": [
+		"water_damage_pump"
+	],
         "additional": {
             "qualification": [
                 "Fachgruppe Wasserschaden/Pumpen"
@@ -3181,7 +3187,9 @@
         "possible_building_type_id": [
             9
         ],
-        "schooling": [],
+        "schooling": [
+		"heavy_rescue"
+	],
         "additional": {
             "qualification": [
                 "Fachgruppe Schwere Bergung"
@@ -3481,10 +3489,12 @@
         "possible_building_type_id": [
             9
         ],
-        "schooling": [],
+        "schooling": [
+		"thw_energy_supply"
+	],
         "additional": {
             "qualification": [
-                "Fachgruppe Wasserschaden/Pumpen"
+                "Fachgruppe Elektroversorgung"
             ]
         },
         "prerequisites": {
@@ -3505,7 +3515,9 @@
         "possible_building_type_id": [
             9
         ],
-        "schooling": [],
+        "schooling": [
+		"water_damage_pump"
+	],
         "additional": {
             "qualification": [
                 "Fachgruppe Wasserschaden/Pumpen"
@@ -3540,7 +3552,9 @@
         "name": "Mannschaftstransportwagen Trupp Unbemannte Luftfahrtsysteme",
         "short_name": "MTW-Tr UL",
         "class": [],
-        "class_alias": [],
+        "class_alias": [
+		"Drohneneinheit"
+	],
         "cost": 10000,
         "personal": {
             "min": 4,
@@ -3549,7 +3563,9 @@
         "possible_building_type_id": [
             9
         ],
-        "schooling": [],
+        "schooling": [
+		"thw_drone"
+	],
         "additional": {
             "qualification": [
                 "Trupp Unbemannte Luftfahrtsysteme"
@@ -3564,7 +3580,9 @@
         "name": "Mannschaftstransportfahrzeug Drohne",
         "short_name": "MTF Drohne",
         "class": [],
-        "class_alias": [],
+        "class_alias": [
+		"Drohneneinheit"
+	],
         "cost": 10000,
         "personal": {
             "min": 4,
@@ -3575,7 +3593,7 @@
             18
         ],
         "schooling": [
-			"fire_drone"
+	    "fire_drone"
 		],
         "additional": {
             "qualification": [
