@@ -985,7 +985,7 @@
         ],
         "schooling": [
             "gw_hoehenrettung"
-		],
+	],
         "additional": {
             "qualification": [
                 "Höhenrettung Lehrgang"
@@ -1018,7 +1018,7 @@
         ],
         "schooling": [
 	    "elw2"
-		],
+	],
         "additional": {
             "qualification": [
                 "ELW 2"
@@ -1348,7 +1348,7 @@
         ],
         "schooling": [
 	   "wechsellader"
-		],
+	],
         "additional": {
             "qualification": [
                 "Wechsellader"
@@ -1540,8 +1540,8 @@
             18
         ],
         "schooling": [
-	   "dekon_p"
-		],
+		"dekon_p"
+	],
         "additional": {
             "qualification": [
                 "Dekon-P"
@@ -1571,8 +1571,8 @@
             18
         ],
         "schooling": [
-	   "dekon_p"
-		],
+		"dekon_p"
+	],
         "additional": {
             "trailer": true,
             "qualification": [
@@ -1664,7 +1664,7 @@
         ],
         "schooling": [
 			"fwk"
-		],
+	],
         "additional": {
             "qualification": [
                 "Feuerwehrkran"
@@ -1847,7 +1847,7 @@
         ],
         "schooling": [
 			"gw_taucher"
-		],
+	],
         "additional": {
             "qualification": [
                 "GW-Taucher"
@@ -1875,7 +1875,7 @@
         ],
         "schooling": [
 			"gw_wasserrettung"
-		],
+	],
         "additional": {
             "qualification": [
                 "GW-Wasserrettung"
@@ -2125,7 +2125,7 @@
         ],
         "schooling": [
 			"notarzt"
-		],
+	],
         "additional": {
             "option_with_na": {
                 "critical_patients": true,
@@ -2172,7 +2172,7 @@
         ],
         "schooling": [
 			"notarzt"
-		],
+	],
         "additional": {
             "critical_patients": true,
             "primary_transport": true,
@@ -2205,7 +2205,7 @@
         ],
         "schooling": [
 			"arff"
-		],
+	],
         "additional": {
             "water": 12000,
             "qualification": [
@@ -2236,7 +2236,7 @@
         ],
         "schooling": [
 			"rettungstreppe"
-		],
+	],
         "additional": {
             "qualification": [
                 "Rettungstreppe"
@@ -2267,7 +2267,7 @@
         ],
         "schooling": [
 			"gw_gefahrgut"
-		],
+	],
         "additional": {
             "trailer": true,
             "qualification": [
@@ -2301,7 +2301,7 @@
         ],
         "schooling": [
 			"elw2"
-		],
+	],
         "additional": {
             "trailer": true,
             "qualification": [
@@ -2456,7 +2456,7 @@
         ],
         "schooling": [
 			"werkfeuerwehr"
-		],
+	],
         "additional": {
             "qualification": [
                 "Werkfeuerwehr"
@@ -2486,7 +2486,7 @@
         ],
         "schooling": [
 			"werkfeuerwehr"
-		],
+	],
         "additional": {
             "water": 5000,
             "qualification": [
@@ -2519,7 +2519,7 @@
         ],
         "schooling": [
 			"werkfeuerwehr"
-		],
+	],
         "additional": {
             "qualification": [
                 "Werkfeuerwehr"
@@ -2549,7 +2549,7 @@
         ],
         "schooling": [
 			"werkfeuerwehr"
-		],
+	],
         "additional": {
             "qualification": [
                 "Werkfeuerwehr"
@@ -2876,7 +2876,7 @@
         "schooling": [
 			"notarzt",
 			"intensive_care"
-		],
+	],
         "additional": {
             "critical_patients": true,
             "primary_transport": true,
@@ -3250,7 +3250,7 @@
         ],
         "schooling": [
 			"energy_supply"
-		],
+	],
         "additional": {
             "trailer": true
         },
@@ -3594,7 +3594,7 @@
         ],
         "schooling": [
 	    "fire_drone"
-		],
+	],
         "additional": {
             "qualification": [
                 "Drohnen-Schulung"
@@ -3603,5 +3603,35 @@
         "prerequisites": {
             "fire_stations": 1
         }
-    }
+    },
+    "145": {
+        "id": 145,
+        "name": "FüKomKW",
+        "short_name": "FüKomKW",
+        "class": [
+		"FüKomKW"
+	],
+        "class_alias": [
+		"FüKomKW"
+	],
+        "cost": 25000,
+        "personal": {
+            "min": 1,
+            "max": 7
+        },
+        "possible_building_type_id": [
+            9
+        ],
+        "schooling": [
+	    "thw_command"
+	],
+        "additional": {
+            "qualification": [
+                "Fachzug Führung und Kommunikation"
+            ]
+        },
+        "prerequisites": {
+		"thw": 1
+        }
+    },
 }
