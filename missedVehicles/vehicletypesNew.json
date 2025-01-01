@@ -1833,7 +1833,7 @@
             "diver_units"
         ],
         "class_alias": [
-            "Taucher"
+            "GW-Taucher"
         ],
         "cost": 10000,
         "personal": {
