@@ -3551,7 +3551,9 @@
         "id": 125,
         "name": "Mannschaftstransportwagen Trupp Unbemannte Luftfahrtsysteme",
         "short_name": "MTW-Tr UL",
-        "class": [],
+        "class": [
+		"drone_unit"
+	],
         "class_alias": [
 		"Drohneneinheit"
 	],
@@ -3579,7 +3581,9 @@
         "id": 126,
         "name": "Mannschaftstransportfahrzeug Drohne",
         "short_name": "MTF Drohne",
-        "class": [],
+        "class": [
+		"drone_unit"
+	],
         "class_alias": [
 		"Drohneneinheit"
 	],
