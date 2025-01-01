@@ -3608,6 +3608,37 @@
             "fire_stations": 1
         }
     },
+    "127": {
+        "id": 127,
+        "name": "Gerätewagen Drohne",
+        "short_name": "GW UAS",
+        "class": [
+		"drone_unit"
+	],
+        "class_alias": [
+		"Drohneneinheit"
+	],
+        "cost": 10000,
+        "personal": {
+            "min": 4,
+            "max": 4
+        },
+        "possible_building_type_id": [
+            12
+        ],
+        "schooling": [
+	    "seg_drone"
+	],
+        "additional": {
+            "qualification": [
+                "Drohnenoperator"
+            ]
+        },
+        "prerequisites": {
+            "rescue_stations": 3,
+            "seg": 1
+        }
+    },
     "144": {
         "id": 144,
         "name": "FüKW (THW)",
