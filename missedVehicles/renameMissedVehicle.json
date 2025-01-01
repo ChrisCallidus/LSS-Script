@@ -68,6 +68,7 @@
 	"Rettungshundestaffeln":"rescue_dog_units",
 	"NEA50":"NEA50",
 	"Lüfter":"ventilation",
+	"Drohneneinheit":"drone_unit",
 	"Feuerwehrmann":"firemen",
 	"Feuerwehrleute":"firemen",
 	"Polizist":"policemen",
