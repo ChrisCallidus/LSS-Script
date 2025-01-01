@@ -1017,7 +1017,7 @@
             18
         ],
         "schooling": [
-			"elw2"
+	    "elw2"
 		],
         "additional": {
             "qualification": [
@@ -1046,7 +1046,9 @@
         "possible_building_type_id": [
             11
         ],
-        "schooling": [],
+        "schooling": [
+	    "lebefkw"
+	],
         "additional": {
             "qualification": [
                 "Zugführer (leBefKw)"
@@ -1180,7 +1182,9 @@
         "possible_building_type_id": [
             9
         ],
-        "schooling": [],
+        "schooling": [
+		"thw_zugtrupp"
+	],
         "additional": {
             "qualification": [
                 "Zugtrupp"
@@ -1232,7 +1236,9 @@
         "possible_building_type_id": [
             9
         ],
-        "schooling": [],
+        "schooling": [
+		"thw_raumen"
+	],
         "additional": {
             "qualification": [
                 "Fachgruppe Räumen"
@@ -1298,8 +1304,12 @@
         "id": 45,
         "name": "Mannschaftslastwagen Typ V",
         "short_name": "MLW 5",
-        "class": [],
-        "class_alias": [],
+        "class": [
+		"thw_mlw5"
+	],
+        "class_alias": [
+		"MLW 5"
+	],
         "cost": 2500,
         "personal": {
             "min": 1,
@@ -1308,7 +1318,9 @@
         "possible_building_type_id": [
             9
         ],
-        "schooling": [],
+        "schooling": [
+		"thw_raumen"
+	],
         "additional": {
             "qualification": [
                 "Fachgruppe Räumen"
@@ -1335,7 +1347,7 @@
             18
         ],
         "schooling": [
-			"wechsellader"
+	   "wechsellader"
 		],
         "additional": {
             "qualification": [
@@ -1454,12 +1466,12 @@
     "51": {
         "id": 51,
         "name": "Führungskraftwagen",
-        "short_name": "FüKw",
+        "short_name": "FüKw (Polizei)",
         "class": [
             "fukw"
         ],
         "class_alias": [
-            "FüKw"
+            "FüKw (Polizei)"
         ],
         "cost": 17500,
         "personal": {
@@ -1528,7 +1540,7 @@
             18
         ],
         "schooling": [
-			"dekon_p"
+	   "dekon_p"
 		],
         "additional": {
             "qualification": [
@@ -1559,7 +1571,7 @@
             18
         ],
         "schooling": [
-			"dekon_p"
+	   "dekon_p"
 		],
         "additional": {
             "trailer": true,
