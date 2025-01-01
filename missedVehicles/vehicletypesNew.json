@@ -3604,6 +3604,36 @@
             "fire_stations": 1
         }
     },
+    "144": {
+        "id": 144,
+        "name": "FüKW (THW)",
+        "short_name": "FüKW (THW)",
+        "class": [
+		"FüKW_(THW)"
+	],
+        "class_alias": [
+		"FüKW (THW)"
+	],
+        "cost": 15000,
+        "personal": {
+            "min": 1,
+            "max": 4
+        },
+        "possible_building_type_id": [
+            9
+        ],
+        "schooling": [
+	    "thw_command"
+	],
+        "additional": {
+            "qualification": [
+                "Fachzug Führung und Kommunikation"
+            ]
+        },
+        "prerequisites": {
+		"thw": 1
+        }
+    },
     "145": {
         "id": 145,
         "name": "FüKomKW",
@@ -3634,4 +3664,88 @@
 		"thw": 1
         }
     },
+    "146": {
+        "id": 146,
+        "name": "Anh FüLa",
+        "short_name": "Anh FüLa",
+        "class": [
+		"Anh_FüLa"
+	],
+        "class_alias": [
+		"Anh FüLa"
+	],
+        "cost": 10000,
+        "personal": {
+            "min": 0,
+            "max": 0
+        },
+        "possible_building_type_id": [
+            9
+        ],
+        "schooling": [],
+        "additional": {
+		"trailer": true
+	},
+        "prerequisites": {
+		"thw": 1
+        }
+    },
+    "147": {
+        "id": 147,
+        "name": "FmKW",
+        "short_name": "FmKW",
+        "class": [
+		"FmKW"
+	],
+        "class_alias": [
+		"FmKW"
+	],
+        "cost": 20000,
+        "personal": {
+            "min": 1,
+            "max": 7
+        },
+        "possible_building_type_id": [
+            9
+        ],
+        "schooling": [
+	    "thw_command"
+	],
+        "additional": {
+            "qualification": [
+                "Fachzug Führung und Kommunikation"
+            ]
+        },
+        "prerequisites": {
+		"thw": 1
+        }
+    },
+    "148": {
+        "id": 148,
+        "name": "MTW-FGr K",
+        "short_name": "MTW-FGr K",
+        "class": [
+	],
+        "class_alias": [
+	],
+        "cost": 20000,
+        "personal": {
+            "min": 4,
+            "max": 4
+        },
+        "possible_building_type_id": [
+            9
+        ],
+        "schooling": [
+	    "thw_command"
+	],
+        "additional": {
+            "qualification": [
+                "Fachzug Führung und Kommunikation"
+            ]
+        },
+        "prerequisites": {
+		"thw": 1
+        }
+    }
 }
