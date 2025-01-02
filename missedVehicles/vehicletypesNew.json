@@ -3703,6 +3703,40 @@
             "fire_stations": 1
         }
     },
+    "130": {
+        "id": 130,
+        "name": "Gerätewagen Betreuung",
+        "short_name": "GW-Bt",
+        "class": [
+		"drone_unit"
+	],
+        "class_alias": [
+		"Drohneneinheit"
+	],
+        "cost": 35000,
+        "personal": {
+            "min": 3,
+            "max": 3
+        },
+        "possible_building_type_id": [
+            12
+        ],
+        "schooling": [
+	    "care_service",
+	    "care_service_equipment"
+		
+	],
+        "additional": {
+            "qualification": [
+                "Betreuungsdienst",
+		"Verpflegungshelfer"
+            ]
+        },
+        "prerequisites": {
+            "rescue_stations": 3,
+            "seg": 1
+        }
+    },
     "144": {
         "id": 144,
         "name": "Führungskraftwagen",
