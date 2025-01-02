@@ -3639,15 +3639,77 @@
             "seg": 1
         }
     },
-    "144": {
-        "id": 144,
-        "name": "FüKW (THW)",
-        "short_name": "FüKW (THW)",
+    "128": {
+        "id": 128,
+        "name": "Einsatzleitwagen Drohne",
+        "short_name": "ELW Drohne",
         "class": [
-		"FüKW_(THW)"
+		"drone_unit"
 	],
         "class_alias": [
-		"FüKW (THW)"
+		"Drohneneinheit"
+	],
+        "cost": 20000,
+        "personal": {
+            "min": 4,
+            "max": 5
+        },
+        "possible_building_type_id": [
+            0,
+            18
+        ],
+        "schooling": [
+	    "fire_drone"
+	],
+        "additional": {
+            "qualification": [
+                "Drohnen-Schulung"
+            ]
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
+    },
+    "129": {
+        "id": 129,
+        "name": "Einsatzleitwagen 2 Drohne",
+        "short_name": "ELW 2 Drohne",
+        "class": [
+		"drone_unit"
+	],
+        "class_alias": [
+		"Drohneneinheit"
+	],
+        "cost": 20000,
+        "personal": {
+            "min": 4,
+            "max": 6
+        },
+        "possible_building_type_id": [
+            0,
+            18
+        ],
+        "schooling": [
+	    "fire_drone",
+	    "elw2"
+	],
+        "additional": {
+            "qualification": [
+                "Drohnen-Schulung",
+		"ELW 2 Lehrgang"
+            ]
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
+    },
+    "144": {
+        "id": 144,
+        "name": "Führungskraftwagen",
+        "short_name": "FüKW (THW)",
+        "class": [
+	],
+        "class_alias": [
 	],
         "cost": 15000,
         "personal": {
@@ -3671,13 +3733,11 @@
     },
     "145": {
         "id": 145,
-        "name": "FüKomKW",
+        "name": "Führungs- und Kommunikationskraftwagen",
         "short_name": "FüKomKW",
         "class": [
-		"FüKomKW"
 	],
         "class_alias": [
-		"FüKomKW"
 	],
         "cost": 25000,
         "personal": {
@@ -3701,13 +3761,11 @@
     },
     "146": {
         "id": 146,
-        "name": "Anh FüLa",
+        "name": "Anhänger Führung und Lage",
         "short_name": "Anh FüLa",
         "class": [
-		"Anh_FüLa"
 	],
         "class_alias": [
-		"Anh FüLa"
 	],
         "cost": 10000,
         "personal": {
@@ -3727,13 +3785,11 @@
     },
     "147": {
         "id": 147,
-        "name": "FmKW",
+        "name": "Fernmeldekraftwagen",
         "short_name": "FmKW",
         "class": [
-		"FmKW"
 	],
         "class_alias": [
-		"FmKW"
 	],
         "cost": 20000,
         "personal": {
@@ -3757,7 +3813,7 @@
     },
     "148": {
         "id": 148,
-        "name": "MTW-FGr K",
+        "name": "Mannschaftstransportwagen",
         "short_name": "MTW-FGr K",
         "class": [
 	],
