@@ -1,7 +1,7 @@
 {
     "0": {
         "id": 0,
-        "name": "LF 20",
+        "name": "Löschgruppenfahrzeug 20",
         "short_name": "LF 20",
         "class": [
             "firetrucks",
@@ -31,7 +31,7 @@
     },
     "1": {
         "id": 1,
-        "name": "LF 10",
+        "name": "Löschgruppenfahrzeug 10",
         "short_name": "LF 10",
         "class": [
             "firetrucks",
