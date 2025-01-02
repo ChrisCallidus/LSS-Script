@@ -161,7 +161,7 @@
     },
     "6": {
         "id": 6,
-        "name": "LF 8/6",
+        "name": "Löschgruppenfahrzeug 8/6",
         "short_name": "LF 8/6",
         "class": [
             "firetrucks",
@@ -191,7 +191,7 @@
     },
     "7": {
         "id": 7,
-        "name": "LF 20/16",
+        "name": "Löschgruppenfahrzeug 20/16",
         "short_name": "LF 20/16",
         "class": [
             "firetrucks",
@@ -221,7 +221,7 @@
     },
     "8": {
         "id": 8,
-        "name": "LF 10/6",
+        "name": "Löschgruppenfahrzeug 10/6",
         "short_name": "LF 10/6",
         "class": [
             "firetrucks",
@@ -251,7 +251,7 @@
     },
     "9": {
         "id": 9,
-        "name": "LF 16-TS",
+        "name": "Löschgruppenfahrzeug 16 mit Tragkraftspritze",
         "short_name": "LF 16-TS",
         "class": [
             "firetrucks",
@@ -280,7 +280,7 @@
     },
     "10": {
         "id": 10,
-        "name": "GW-Öl",
+        "name": "Gerätewagen Öl",
         "short_name": "GW-Öl",
         "class": [
             "gwoil"
@@ -305,7 +305,7 @@
     },
     "11": {
         "id": 11,
-        "name": "GW-L2-Wasser",
+        "name": "Gerätewagen Logistik 2 mit Wasserversorgungsmodul",
         "short_name": "GW-L2-W",
         "class": [
             "water_tankers"
@@ -332,8 +332,8 @@
     },
     "12": {
         "id": 12,
-        "name": "GW-Messtechnik",
-        "short_name": "GW-Mess",
+        "name": "Gerätewagen Messtechnik",
+        "short_name": "GW-Messtechnik",
         "class": [
             "gwmess"
         ],
@@ -363,7 +363,7 @@
     },
     "13": {
         "id": 13,
-        "name": "SW 1000",
+        "name": "Schlauchwagen 1000",
         "short_name": "SW 1000",
         "class": [
             "water_tankers"
@@ -390,7 +390,7 @@
     },
     "14": {
         "id": 14,
-        "name": "SW 2000",
+        "name": "Schlauchwagen 2000",
         "short_name": "SW 2000",
         "class": [
             "water_tankers"
@@ -417,7 +417,7 @@
     },
     "15": {
         "id": 15,
-        "name": "SW 2000-Tr",
+        "name": "Schlauchwagen 2000 mit Truppbesatzung",
         "short_name": "SW 2000-Tr",
         "class": [
             "water_tankers"
@@ -444,7 +444,7 @@
     },
     "16": {
         "id": 16,
-        "name": "SW KatS",
+        "name": "Schlauchwagen Katastrophenschutz",
         "short_name": "SW KatS",
         "class": [
             "water_tankers"
@@ -471,7 +471,7 @@
     },
     "17": {
         "id": 17,
-        "name": "TLF 2000",
+        "name": "Tanklöschfahrzeug 2000",
         "short_name": "TLF 2000",
         "class": [
             "firetrucks",
@@ -501,7 +501,7 @@
     },
     "18": {
         "id": 18,
-        "name": "TLF 3000",
+        "name": "Tanklöschfahrzeug 3000",
         "short_name": "TLF 3000",
         "class": [
             "firetrucks",
@@ -531,7 +531,7 @@
     },
     "19": {
         "id": 19,
-        "name": "TLF 8/8",
+        "name": "Tanklöschfahrzeug 8/8",
         "short_name": "TLF 8/8",
         "class": [
             "firetrucks",
@@ -561,7 +561,7 @@
     },
     "20": {
         "id": 20,
-        "name": "TLF 8/18",
+        "name": "Tanklöschfahrzeug 8/18",
         "short_name": "TLF 8/18",
         "class": [
             "firetrucks",
@@ -591,7 +591,7 @@
     },
     "21": {
         "id": 21,
-        "name": "TLF 16/24-Tr",
+        "name": "Tanklöschfahrzeug 16/24 Trupp",
         "short_name": "TLF 16/24-Tr",
         "class": [
             "firetrucks",
@@ -621,7 +621,7 @@
     },
     "22": {
         "id": 22,
-        "name": "TLF 16/25",
+        "name": "Tanklöschfahrzeug 16/25",
         "short_name": "TLF 16/25",
         "class": [
             "firetrucks",
@@ -651,7 +651,7 @@
     },
     "23": {
         "id": 23,
-        "name": "TLF 16/45",
+        "name": "Tanklöschfahrzeug 16/45",
         "short_name": "TLF 16/45",
         "class": [
             "firetrucks",
@@ -681,7 +681,7 @@
     },
     "24": {
         "id": 24,
-        "name": "TLF 20/40",
+        "name": "Tanklöschfahrzeug 20/40",
         "short_name": "TLF 20/40",
         "class": [
             "firetrucks",
@@ -711,7 +711,7 @@
     },
     "25": {
         "id": 25,
-        "name": "TLF 20/40-SL",
+        "name": "Tanklöschfahrzeug 20/40 Sonderlöschmittel",
         "short_name": "TLF 20/40-SL",
         "class": [
             "firetrucks",
@@ -741,7 +741,7 @@
     },
     "26": {
         "id": 26,
-        "name": "TLF 16",
+        "name": "Tanklöschfahrzeug 16",
         "short_name": "TLF 16",
         "class": [
             "firetrucks",
