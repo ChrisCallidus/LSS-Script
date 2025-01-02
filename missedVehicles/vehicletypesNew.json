@@ -3708,10 +3708,8 @@
         "name": "Gerätewagen Betreuung",
         "short_name": "GW-Bt",
         "class": [
-		"drone_unit"
 	],
         "class_alias": [
-		"Drohneneinheit"
 	],
         "cost": 35000,
         "personal": {
@@ -3724,7 +3722,90 @@
         "schooling": [
 	    "care_service",
 	    "care_service_equipment"
-		
+	],
+        "additional": {
+            "qualification": [
+                "Betreuungsdienst",
+		"Verpflegungshelfer"
+            ]
+        },
+        "prerequisites": {
+            "rescue_stations": 3,
+            "seg": 1
+        }
+    },
+    "131": {
+        "id": 131,
+        "name": "Betreuungskombi",
+        "short_name": "Bt-Kombi",
+        "class": [
+	],
+        "class_alias": [
+	],
+        "cost": 25000,
+        "personal": {
+            "min": 1,
+            "max": 9
+        },
+        "possible_building_type_id": [
+            12
+        ],
+        "schooling": [
+	    "care_service"		
+	],
+        "additional": {
+            "qualification": [
+                "Betreuungsdienst"
+            ]
+        },
+        "prerequisites": {
+            "rescue_stations": 3,
+            "seg": 1
+        }
+    },
+    "132": {
+        "id": 132,
+        "name": "Anhänger Feldkochherd",
+        "short_name": "FKH",
+        "class": [
+	],
+        "class_alias": [
+	],
+        "cost": 20000,
+        "personal": {
+            "min": 0,
+            "max": 0
+        },
+        "possible_building_type_id": [
+            12
+        ],
+        "schooling": [],
+        "additional": {
+		"trailer": true
+	},
+        "prerequisites": {
+		"seg": 1
+        }
+    },
+    "133": {
+        "id": 133,
+        "name": "Betreuungs-Lastkraftwagen",
+        "short_name": "Bt LKW",
+        "class": [
+	],
+        "class_alias": [
+	],
+        "cost": 15000,
+        "personal": {
+            "min": 3,
+            "max": 3
+        },
+        "possible_building_type_id": [
+            12
+        ],
+        "schooling": [
+	    "care_service",
+	    "care_service_equipment"
 	],
         "additional": {
             "qualification": [
