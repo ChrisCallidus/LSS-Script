@@ -340,7 +340,7 @@
         "name": "Gerätewagen Messtechnik",
         "short_name": "GW-Messtechnik",
         "class": [
-            "gwmess"
+            "gw_measurement_technology"
         ],
         "class_alias": [
             "Messtechnik"
