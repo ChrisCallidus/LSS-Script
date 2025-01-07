@@ -4,7 +4,7 @@
         "name": "Feuerwehrleute",
         "short_name": "ADF",
         "class": [
-            "firemen"
+            "firepersons"
         ],
         "class_alias": [
             "ADF"
