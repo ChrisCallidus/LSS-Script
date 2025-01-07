@@ -91,7 +91,7 @@
         "name": "Einsatzleitwagen 1",
         "short_name": "ELW 1",
         "class": [
-            "battalion_chief_vehicles"
+            "battalion_chief_vehicle"
         ],
         "class_alias": [
             "ELW 1"
@@ -313,7 +313,7 @@
         "name": "Gerätewagen Logistik 2 mit Wasserversorgungsmodul",
         "short_name": "GW-L2-W",
         "class": [
-            "water_tankers"
+            "water_tanker"
         ],
         "class_alias": [
             "Schlauchwagen"
@@ -371,7 +371,7 @@
         "name": "Schlauchwagen 1000",
         "short_name": "SW 1000",
         "class": [
-            "water_tankers"
+            "water_tanker"
         ],
         "class_alias": [
             "Schlauchwagen"
@@ -398,7 +398,7 @@
         "name": "Schlauchwagen 2000",
         "short_name": "SW 2000",
         "class": [
-            "water_tankers"
+            "water_tanker"
         ],
         "class_alias": [
             "Schlauchwagen"
@@ -425,7 +425,7 @@
         "name": "Schlauchwagen 2000 mit Truppbesatzung",
         "short_name": "SW 2000-Tr",
         "class": [
-            "water_tankers"
+            "water_tanker"
         ],
         "class_alias": [
             "Schlauchwagen"
@@ -452,7 +452,7 @@
         "name": "Schlauchwagen Katastrophenschutz",
         "short_name": "SW KatS",
         "class": [
-            "water_tankers"
+            "water_tanker"
         ],
         "class_alias": [
             "Schlauchwagen"
@@ -786,10 +786,10 @@
     },
     "27": {
         "id": 27,
-        "name": "GW-Gefahrgut",
-        "short_name": "GW-G",
+        "name": "Gerätewagen Gefahrgut",
+        "short_name": "GW-Gefahrgut",
         "class": [
-            "hazmat_vehicles"
+            "hazmat_vehicle"
         ],
         "class_alias": [
             "Gefahrgut"
@@ -820,7 +820,7 @@
         "name": "Rettungswagen",
         "short_name": "RTW",
         "class": [
-            "ambulances"
+            "ambulance"
         ],
         "class_alias": [
             "Patiententransport"
@@ -982,10 +982,10 @@
     },
     "33": {
         "id": 33,
-        "name": "GW-Höhenrettung",
-        "short_name": "GW-H",
+        "name": "Gerätewagen Höhenrettung",
+        "short_name": "GW-Höhenrettung",
         "class": [
-            "height_rescue_units"
+            "height_rescue_unit"
         ],
         "class_alias": [
             "Höhenrettung"
@@ -1016,8 +1016,8 @@
         "name": "Einsatzleitwagen 2",
         "short_name": "ELW 2",
         "class": [
-            "mobile_command_vehicles",
-            "battalion_chief_vehicles"
+            "mobile_command_vehicle",
+            "battalion_chief_vehicle"
         ],
         "class_alias": [
             "ELW 2",
@@ -1131,7 +1131,7 @@
         "name": "Krankentransportwagen",
         "short_name": "KTW",
         "class": [
-            "ambulances"
+            "ambulance"
         ],
         "class_alias": [
             "Patiententransport"
@@ -1696,7 +1696,7 @@
         "name": "Krankentransportwagen Typ B",
         "short_name": "KTW Typ B",
         "class": [
-            "ambulances_b"
+            "ambulance_b"
         ],
         "class_alias": [
             "KTW Typ B"
@@ -1819,7 +1819,7 @@
         "name": "Abrollbehälter-Schlauch",
         "short_name": "AB-Schlauch",
         "class": [
-            "water_tankers"
+            "water_tanker"
         ],
         "class_alias": [
             "Schlauchwagen"
@@ -1847,7 +1847,7 @@
         "name": "Gerätewagen Taucher",
         "short_name": "GW-Taucher",
         "class": [
-            "diver_units"
+            "diver_unit"
         ],
         "class_alias": [
             "GW-Taucher"
@@ -2009,7 +2009,7 @@
         "name": "Tauchkraftwagen",
         "short_name": "TKW",
         "class": [
-            "diver_units"
+            "diver_unit"
         ],
         "class_alias": [
             "Taucher"
@@ -2125,7 +2125,7 @@
         "name": "Großraum-Rettungstransportwagen",
         "short_name": "GRTW",
         "class": [
-            "ambulances"
+            "ambulance"
         ],
         "class_alias": [
             "Patiententransport"
@@ -2170,7 +2170,7 @@
         "name": "Notarztwagen",
         "short_name": "NAW",
         "class": [
-            "ambulances",
+            "ambulance",
             "nef"
         ],
         "class_alias": [
@@ -2268,7 +2268,7 @@
         "name": "Abrollbehälter-Gefahrgut",
         "short_name": "AB-Gefahrgut",
         "class": [
-            "hazmat_vehicles"
+            "hazmat_vehicle"
         ],
         "class_alias": [
             "Gefahrgut"
@@ -2300,8 +2300,8 @@
         "name": "AB-Einsatzleitung",
         "short_name": "AB-EL",
         "class": [
-            "mobile_command_vehicles",
-            "battalion_chief_vehicles"
+            "mobile_command_vehicle",
+            "battalion_chief_vehicle"
         ],
         "class_alias": [
             "ELW 2",
@@ -2877,7 +2877,7 @@
         "name": "Intensivtransportwagen",
         "short_name": "ITW",
         "class": [
-            "ambulances",
+            "ambulance",
             "nef"
         ],
         "class_alias": [
@@ -2977,7 +2977,7 @@
         "short_name": "Anh SwPu",
         "class": [
             "pump",
-            "water_tankers",
+            "water_tanker",
             "water_damage_pump"
         ],
         "class_alias": [
@@ -3009,7 +3009,7 @@
         "short_name": "Anh 7",
         "class": [
             "pump",
-            "water_tankers",
+            "water_tanker",
             "water_damage_pump"
         ],
         "class_alias": [
