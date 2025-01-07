@@ -2458,7 +2458,7 @@
         "name": "GW-Werkfeuerwehr",
         "short_name": "GW-Werk",
         "class": [
-            "gw_werkfeuerwehr"
+            "gw_factory_fire_brigade"
         ],
         "class_alias": [
             "GW-Werkfeuerwehr"
