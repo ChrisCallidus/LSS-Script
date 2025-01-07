@@ -958,7 +958,7 @@
         "name": "Funkstreifenwagen",
         "short_name": "FuStW",
         "class": [
-            "police_cars"
+            "police_car"
         ],
         "class_alias": [
             "Polizeistreifen"
@@ -3041,7 +3041,7 @@
         "short_name": "FuStW (DGL)",
         "class": [
             "police_service_group_leader",
-            "police_cars"
+            "police_car"
         ],
         "class_alias": [
             "Dienstgruppenleiter",
