@@ -116,7 +116,7 @@
         "name": "Rüstwagen",
         "short_name": "RW",
         "class": [
-            "heavy_rescue_vehicles"
+            "heavy_rescue_vehicle"
         ],
         "class_alias": [
             "Rüstwagen"
@@ -141,7 +141,7 @@
         "name": "GW-Atemschutz",
         "short_name": "GW-A",
         "class": [
-            "mobile_air_vehicles"
+            "mobile_air_vehicle"
         ],
         "class_alias": [
             "Atemschutz"
@@ -886,7 +886,7 @@
         "class": [
             "firetrucks",
             "water_damage_pump",
-            "heavy_rescue_vehicles"
+            "heavy_rescue_vehicle"
         ],
         "class_alias": [
 	    "Löschfahrzeug",
@@ -1161,7 +1161,7 @@
         "short_name": "GKW",
         "class": [
             "thw_gkw",
-            "heavy_rescue_vehicles"
+            "heavy_rescue_vehicle"
         ],
         "class_alias": [
             "GKW",
@@ -1380,7 +1380,7 @@
         "name": "Abrollbehälter-Rüst",
         "short_name": "AB-Rüst",
         "class": [
-            "heavy_rescue_vehicles"
+            "heavy_rescue_vehicle"
         ],
         "class_alias": [
             "Rüstwagen"
@@ -1407,7 +1407,7 @@
         "name": "AB-Atemschutz",
         "short_name": "AB-A",
         "class": [
-            "mobile_air_vehicles"
+            "mobile_air_vehicle"
         ],
         "class_alias": [
             "Atemschutz"
@@ -1790,7 +1790,7 @@
         "name": "Polizeihubschrauber",
         "short_name": "Pol-Heli",
         "class": [
-            "police_helicopters"
+            "police_helicopter"
         ],
         "class_alias": [
             "Polizeihubschrauber"
@@ -2676,7 +2676,7 @@
         "class": [
             "firetrucks",
             "water_damage_pump",
-            "heavy_rescue_vehicles"
+            "heavy_rescue_vehicle"
         ],
         "class_alias": [
 	    "Löschfahrzeug",
