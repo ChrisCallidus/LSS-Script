@@ -2519,7 +2519,7 @@
         "name": "Teleskopmast 50",
         "short_name": "TM 50",
         "class": [
-            "teleskopmast",
+            "telescopic_mast",
             "platform_trucks"
         ],
         "class_alias": [
