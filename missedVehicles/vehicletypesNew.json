@@ -39,6 +39,7 @@
             "water_damage_pump"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe"
         ],
@@ -169,6 +170,7 @@
             "water_damage_pump"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe"
         ],
@@ -199,6 +201,7 @@
             "water_damage_pump"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe"
         ],
@@ -229,6 +232,7 @@
             "water_damage_pump"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe"
         ],
@@ -479,6 +483,7 @@
             "water_damage_pump"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe"
         ],
@@ -509,6 +514,7 @@
             "water_damage_pump"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe"
         ],
@@ -539,6 +545,7 @@
             "water_damage_pump"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe"
         ],
@@ -569,6 +576,7 @@
             "water_damage_pump"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe"
         ],
@@ -599,6 +607,7 @@
             "water_damage_pump"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe"
         ],
@@ -629,6 +638,7 @@
             "water_damage_pump"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe"
         ],
@@ -659,6 +669,7 @@
             "water_damage_pump"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe"
         ],
@@ -689,6 +700,7 @@
             "water_damage_pump"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe"
         ],
@@ -719,6 +731,7 @@
             "water_damage_pump"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe"
         ],
@@ -749,6 +762,7 @@
             "water_damage_pump"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe"
         ],
@@ -875,6 +889,7 @@
             "heavy_rescue_vehicles"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe",
             "Rüstwagen"
@@ -1089,6 +1104,7 @@
             "water_damage_pump"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe"
         ],
@@ -2569,6 +2585,7 @@
             "water_damage_pump"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe"
         ],
@@ -2599,6 +2616,7 @@
             "water_damage_pump"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe"
         ],
@@ -2629,6 +2647,7 @@
             "water_damage_pump"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe"
         ],
@@ -2660,6 +2679,7 @@
             "heavy_rescue_vehicles"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe",
             "Rüstwagen"
@@ -3124,6 +3144,7 @@
             "water_damage_pump"
         ],
         "class_alias": [
+	    "Löschfahrzeug",
             "Löschfahrzeuge",
             "Feuerlöschpumpe"
         ],
