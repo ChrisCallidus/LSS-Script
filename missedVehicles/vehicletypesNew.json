@@ -8,6 +8,7 @@
             "water_damage_pump"
         ],
         "class_alias": [
+	    "Löschfahrzeuge",
             "Löschfahrzeuge",
             "Feuerlöschpumpe"
         ],
