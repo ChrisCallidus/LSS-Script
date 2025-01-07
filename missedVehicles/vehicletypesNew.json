@@ -2097,7 +2097,7 @@
         "name": "Wasserwerfer 1000",
         "short_name": "WaWe 10",
         "class": [
-            "wasserwerfer"
+            "water_cannon"
         ],
         "class_alias": [
             "Wasserwerfer"
