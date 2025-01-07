@@ -2551,7 +2551,7 @@
         "name": "Turbolöscher",
         "short_name": "Turbolöscher",
         "class": [
-            "turboloescher"
+            "turbo_extinguisher"
         ],
         "class_alias": [
             "Turbolöscher"
