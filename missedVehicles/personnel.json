@@ -68,7 +68,7 @@
         "name": "GW-Gefahrgut",
         "short_name": "GW-Gefahrgut",
         "class": [
-            "hazmat_vehicles_men"
+            "hazmat_vehicles_persons"
         ],
         "class_alias": [
             "GW-Gefahrgut-Ausbildung"
