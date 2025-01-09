@@ -51,6 +51,7 @@
 	"GefKw":"gefkw",
 	"RTW_oder_KTW_oder_KTW-B":"ambulance",
 	"RTW":"ambulance",
+	"KTW":"ambulance_k",
 	"KTW_B":"ambulance_b",
 	"NEF":"nef",
 	"RTH":"helicopter",
