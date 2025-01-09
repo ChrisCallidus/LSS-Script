@@ -1131,7 +1131,7 @@
         "name": "Krankentransportwagen",
         "short_name": "KTW",
         "class": [
-            "ambulance"
+            "ambulance_k"
         ],
         "class_alias": [
             "Patiententransport"
