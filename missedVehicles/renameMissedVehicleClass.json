@@ -47,7 +47,6 @@
 	"MzGW_(FGr_N)":"thw_mzgw",
 	"MzGW_SB":"thw_mzgwsb",
 	"DHuFüKw":"dhufukw",
-	"l._Wasser":"water_needed",
 	"Außenlastbehälter_(allgemein)":"helicopter_bucket",
 	"GefKw":"gefkw",
 	"RTW_oder_KTW_oder_KTW-B":"ambulance",
@@ -84,5 +83,6 @@
 	"Person_mit_GW-Gefahrgut-Ausbildung":"hazmat_vehicles_person",
 	"Personen_mit_GW-Gefahrgut-Ausbildung":"hazmat_vehicles_persons",
 	"Person_mit_Dekon-P-Ausbildung":"hazmat_dekon_person",
-	"Personen_mit_Dekon-P-Ausbildung":"hazmat_dekon_persons"
+	"Personen_mit_Dekon-P-Ausbildung":"hazmat_dekon_persons",
+	"l._Wasser":"water_needed"
 }
