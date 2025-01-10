@@ -76,6 +76,8 @@
 	"Seenotrettungsboot":"sea_rescue_boat",
 	"Seenotrettungsboote":"sea_rescue_boats",
 	"Seenotrettungskreuzer":"sea_rescue_cruiser",
+	"RW-Schiene":"heavy_rescue_vehicle_railway",
+	"HLF_Schiene":"heavy_rescue_vehicle_railway",
 	"Feuerwehrperson":"fireperson",
 	"Feuerwehrleute":"firepersons",
 	"Polizist":"policeperson",
