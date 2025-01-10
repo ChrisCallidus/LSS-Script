@@ -62,13 +62,13 @@
 	"Schmutzwasserpumpen":"pumps",
 	"Feuerlöschpumpe":"water_damage_pump",
 	"Feuerlöschpumpen":"water_damage_pumps",
-	"l/min_Pumpenleistung":"min_pump_speed",
 	"Funkstreifenwagen_(Dienstgruppenleitung)":"police_service_group_leader",
 	"Polizeimotorrad":"police_motorcycle",
 	"Polizeimotorräder":"police_motorcycles",
 	"Rettungshundestaffel":"rescue_dog_unit",
 	"Rettungshundestaffeln":"rescue_dog_units",
-	"NEA50":"NEA50",
+	"NEA50":"nea50",
+	"NEA200":"nea200",
 	"Lüfter":"ventilation",
 	"Drohneneinheit":"drone_unit",
 	"Drohneneinheiten":"drone_units",
@@ -85,5 +85,6 @@
 	"Personen_mit_GW-Gefahrgut-Ausbildung":"hazmat_vehicles_persons",
 	"Person_mit_Dekon-P-Ausbildung":"hazmat_dekon_person",
 	"Personen_mit_Dekon-P-Ausbildung":"hazmat_dekon_persons",
+	"l/min_Pumpenleistung":"min_pump_speed",
 	"l._Wasser":"water_needed"
 }
